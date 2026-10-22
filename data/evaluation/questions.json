@@ -242,6 +242,11 @@
     "ground_truth": "Mainly because the provision for income taxes related to the State Aid Decision fell by $10.7 billion year over year, along with the impact of changes in unrecognized tax benefits",
     "correct_value": null,
     "unit": "",
+    "key_points": [
+      "State Aid Decision",
+      "$10.7 billion year-over-year decrease in the provision for income taxes",
+      "changes in unrecognized tax benefits"
+    ],
     "evidence_pages": [25],
     "evidence_section": "MD&A - Provision for Income Taxes",
     "reasoning": "MD&A explains the lower 2025 effective tax rate mainly by a $10.7 billion year-over-year decrease in the provision for income taxes related to the State Aid Decision, plus the impact of changes in unrecognized tax benefits."
@@ -253,6 +258,10 @@
     "ground_truth": "Because of lower iPhone net sales, partially offset by higher Mac net sales",
     "correct_value": null,
     "unit": "",
+    "key_points": [
+      "lower iPhone net sales",
+      "partially offset by higher Mac net sales"
+    ],
     "evidence_pages": [22],
     "evidence_section": "MD&A - Segment Operating Performance",
     "reasoning": "The Greater China segment discussion attributes the decrease to lower iPhone net sales, partially offset by higher Mac net sales."
@@ -264,6 +273,11 @@
     "ground_truth": "Because of a different mix of products and tariff costs, partially offset by other favorable costs",
     "correct_value": null,
     "unit": "",
+    "key_points": [
+      "different mix of products",
+      "tariff costs",
+      "other favorable costs"
+    ],
     "evidence_pages": [24],
     "evidence_section": "MD&A - Gross Margin",
     "reasoning": "The Products gross margin discussion says the percentage decreased primarily due to a different mix of products and tariff costs, partially offset by other favorable costs."
@@ -275,6 +289,10 @@
     "ground_truth": "Because of a different mix of services, partially offset by higher costs",
     "correct_value": null,
     "unit": "",
+    "key_points": [
+      "different mix of services",
+      "partially offset by higher costs"
+    ],
     "evidence_pages": [24],
     "evidence_section": "MD&A - Gross Margin",
     "reasoning": "The Services gross margin discussion says the percentage increased primarily due to a different mix of services, partially offset by higher costs."
@@ -286,6 +304,7 @@
     "ground_truth": "Higher net sales from advertising, the App Store and cloud services",
     "correct_value": null,
     "unit": "",
+    "key_points": ["advertising", "the App Store", "cloud services"],
     "evidence_pages": [23],
     "evidence_section": "MD&A - Products and Services Performance",
     "reasoning": "The Services discussion attributes the increase to higher net sales from advertising, the App Store and cloud services."
