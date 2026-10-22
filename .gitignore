@@ -16,9 +16,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Large/raw data
-data/raw/*.pdf
-
 # Generated vector indexes
 indexes/*.index
 indexes/*.faiss
