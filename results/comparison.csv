@@ -1,0 +1,2 @@
+﻿configuration,configuration_label,questions_evaluated,answer_accuracy_%,numerical_accuracy_%,evidence_accuracy_%,retrieval_recall_%,hallucination_rate_%,reasoning_accuracy_%,trend_accuracy_%,abstention_accuracy_%,parse_error_rate_%,avg_latency_seconds,avg_input_tokens,avg_output_tokens,cost
+llm_only,LLM Only,30,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,3.7261,100.0,40.125,

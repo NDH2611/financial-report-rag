@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "configuration": "llm_only",
+    "configuration_label": "LLM Only",
+    "questions_evaluated": 30,
+    "answer_accuracy_%": 0.0,
+    "numerical_accuracy_%": 0.0,
+    "evidence_accuracy_%": 0.0,
+    "retrieval_recall_%": null,
+    "hallucination_rate_%": null,
+    "reasoning_accuracy_%": 0.0,
+    "trend_accuracy_%": 0.0,
+    "abstention_accuracy_%": 0.0,
+    "parse_error_rate_%": 0.0,
+    "avg_latency_seconds": 3.7261,
+    "avg_input_tokens": 100.0,
+    "avg_output_tokens": 40.125,
+    "cost": null
+  }
+]
