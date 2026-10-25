@@ -5,7 +5,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 1,
+      "pdf_page": 1,
+      "page": null,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -17,7 +18,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 1,
+      "pdf_page": 1,
+      "page": null,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -25,11 +27,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p1_t1_c1",
-    "text": "LC) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from | to | .\nCommission File Number: 001-36743\né\n(Exact name of Registrant as specified in its charter)\nCalifornia | 94-2404110\n(State or other jurisdiction | (I.R.S. Employer Identification No.)\nof incorporation or organization)\nOne Apple Park Way\nCupertino, California | 95014\n(Address of principal executive offices) | (Zip Code)",
+    "text": "CL) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from | to | :\nCommission File Number: 001-36743\né\n(Exact name of Registrant as specified in its charter)\nCalifornia | 94-2404110\n(State or other jurisdiction | (I.R.S. Employer Identification No.)\nof incorporation or organization)\nOne Apple Park Way\nCupertino, California | 95014\n(Address of principal executive offices) | (Zip Code)",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 1,
+      "pdf_page": 1,
+      "page": null,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p1_t1",
@@ -38,11 +41,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p2_c1",
-    "text": "Large accelerated filer Accelerated filer O\nNon-accelerated filer O Smaller reporting company Oo\nEmerging growth company O\nIf an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new\nor revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. L\nIndicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal\ncontrol over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared\nor issued its audit report.\nIf securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the\nfiling reflect the correction of an error to previously issued financial statements.\nIndicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation",
+    "text": "Large accelerated filer Accelerated filer O\nNon-accelerated filer O Smaller reporting company Oo\nEmerging growth company O\nIf an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new\nor revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. L\nIndicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal\ncontrol over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared\nor issued its audit report.\nIf securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the\nfiling reflect the correction of an error to previously issued financial statements. 1\nIndicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 2,
+      "pdf_page": 2,
+      "page": null,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -54,7 +58,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 2,
+      "pdf_page": 2,
+      "page": null,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -66,7 +71,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 2,
+      "pdf_page": 2,
+      "page": null,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -74,11 +80,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p3_t1_c1",
-    "text": "Apple Inc.\nForm 10-K\nFor the Fiscal Year Ended September 27, 2025\nTABLE OF CONTENTS\nPage\nPart\nItem 1. | Business | 1\nItem 1A. | Risk Factors | 5\nItem 1B. | Unresolved Staff Comments | 17\nItem 1C. | Cybersecurity | 17\nItem 2. | Properties | 17\nItem 3. | Legal Proceedings | 18\nItem 4. | Mine Safety Disclosures | 18\nPart Il\nItem 5. | Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity | 19\nSecurities\nItem 6. | Reserved | 20\nItem 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 21\nItem 7A. | Quantitative and Qualitative Disclosures About Market Risk | 27\nItem 8. | Financial Statements and Supplementary Data | 28\nItem 9. | Changes in and Disagreements with Accountants on Accounting_and Financial Disclosure | 52\nItem 9A. | Controls and Procedures | 52\nItem 9B. | Other Information | 53\nItem 9C. | Disclosure Regarding Foreign Jurisdictions that Prevent Inspections | 53\nPart Ill\nItem 10. | Directors, Executive Officers and Corporate Governance | 53\nItem 11. | Executive Compensation | 53\nItem 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | 53\nItem 13. | Certain Relationships and Related Transactions, and Director Independence | 53\nItem 14. | Principal Accountant Fees and Services | 53\nPart IV\nItem 15. | Exhibit and Financial Statement Schedules | 54\nItem 16. | Form 10-K Summary | 57",
+    "text": "Apple Inc.\nForm 10-K\nFor the Fiscal Year Ended September 27, 2025\nTABLE OF CONTENTS\nPage\nPart\nItem 1. | Business | 1\nItem 1A. | Risk Factors | 5\nItem 1B. | Unresolved Staff Comments | 17\nItem 1C. | Cybersecurity | 17\nItem 2. | Properties | 17\nItem 3. | Legal Proceedings | 18\nItem 4. | Mine Safety Disclosures | 18\nPart Il\nItem 5. | Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity | 19\nSecurities\nItem 6. | Reserved | 20\nItem 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 21\nItem 7A. | Quantitative and Qualitative Disclosures About Market Risk | 27\nItem 8. | Financial Statements and Supplementary Data | 28\nItem 9. | Changes in and Disagreements with Accountants on Accounting _and Financial Disclosure | 52\nItem 9A. | Controls and Procedures | 52\nItem 9B. | Other Information | 53\nItem 9C. | Disclosure Regarding Foreign Jurisdictions that Prevent Inspections | 53\nPart Ill\nItem 10. | Directors, Executive Officers and Corporate Governance | 53\nItem 11. | Executive Compensation | 53\nItem 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | 53\nItem 13. | Certain Relationships and Related Transactions, and Director Independence | 53\nItem 14. | Principal Accountant Fees and Services | 53\nPart IV\nItem 15. | Exhibit and Financial Statement Schedules | 54\nItem 16. | Form 10-K Summary | 57",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 3,
+      "pdf_page": 3,
+      "page": null,
       "section": "business",
       "type": "table",
       "table_id": "apple_2025_10k_p3_t1",
@@ -87,11 +94,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p4_c1",
-    "text": "This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities\nLitigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of\nthis Form 10-K under the heading “Business” and Part Il, Item 7 of this Form 10-K under the heading “Management's Discussion and\nAnalysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events\nbased on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example,\nstatements in this Form 10-K regarding the potential future impact of macroeconomic conditions and tariffs and other measures on the\nCompany’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by\nwords such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,”",
+    "text": "This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities\nLitigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of\nthis Form 10-K under the heading “Business” and Part Il, Item 7 of this Form 10-K under the heading “Management’s Discussion and\nAnalysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events\nbased on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example,\nstatements in this Form 10-K regarding the potential future impact of macroeconomic conditions and tariffs and other measures on the\nCompany’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by\nwords such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,”",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 4,
+      "pdf_page": 4,
+      "page": 1,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -103,7 +111,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 4,
+      "pdf_page": 4,
+      "page": 1,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -111,11 +120,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p4_c3",
-    "text": "subsidiaries, unless otherwise stated.\nPART |\nItem 1. Business\nCompany Background\nThe Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a\nvariety of related services. The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.\nProducts\niPhone\niPhone® is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 17 Pro, iPhone\nAir™, iPhone 17, iPhone 16 and iPhone 16e.\nMac\nMac® is the Company’s line of personal computers based on its macOS® operating system. The Mac line includes laptops MacBook Air®\nand MacBook Pro®, as well as desktops iMac®, Mac mini®, Mac Studio® and Mac Pro®.\niPad\niPad® is the Company’s line of multipurpose tablets based on its iPadOS® operating system. The iPad line includes iPad Pro®, iPad Air®,\niPad and iPad mini®.\nWearables, Home and Accessories\nWearables includes smartwatches, wireless headphones and spatial computers. The Company’s line of smartwatches, based on its\nwatchOS® operating system, includes Apple Watch® Series 11, Apple Watch SE® 3 and Apple Watch Ultra® 3. The Company’s line of",
+    "text": "subsidiaries, unless otherwise stated.\nPART |\nItem 1. Business\nCompany Background\nThe Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a\nvariety of related services. The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.\nProducts\niPhone\niPhone® is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 17 Pro, iPhone\nAir™, iPhone 17, iPhone 16 and iPhone 16e.\nMac\nMac® is the Company’s line of personal computers based on its macOS® operating system. The Mac line includes laptops MacBook Air®\nand MacBook Pro®, as well as desktops iMac®, Mac mini®, Mac Studio® and Mac Pro®.\niPad\niPad® is the Company’s line of multipurpose tablets based on its iPadOS® operating system. The iPad line includes iPad Pro®, iPad Air®,\niPad and iPad mini®.\nWearables, Home and Accessories\nWearables includes smartwatches, wireless headphones and spatial computers. The Company’s line of smartwatches, based on its\nwatchOS® operating system, includes Apple Watch® Series 11, Apple Watch SE® 3 and Apple Watch Ultra® 3. The Company’s line of",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 4,
+      "pdf_page": 4,
+      "page": 1,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -127,7 +137,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 4,
+      "pdf_page": 4,
+      "page": 1,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -139,7 +150,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 5,
+      "pdf_page": 5,
+      "page": 2,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -151,7 +163,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 5,
+      "pdf_page": 5,
+      "page": 2,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -163,7 +176,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 5,
+      "pdf_page": 5,
+      "page": 2,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -175,7 +189,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 5,
+      "pdf_page": 5,
+      "page": 2,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -187,7 +202,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -199,7 +215,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -211,7 +228,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -223,7 +241,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -235,7 +254,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -247,7 +267,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 6,
+      "pdf_page": 6,
+      "page": 3,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -259,7 +280,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 7,
+      "pdf_page": 7,
+      "page": 4,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -271,7 +293,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 7,
+      "pdf_page": 7,
+      "page": 4,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -283,7 +306,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 7,
+      "pdf_page": 7,
+      "page": 4,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -291,11 +315,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p7_c4",
-    "text": "managers with questions, feedback or concerns, and the Company conducts surveys that gauge employee sentiment in areas like\ncareer development, manager performance and inclusion.\nThe Company is committed to the safety and security of its team members everywhere it operates. The Company supports employees\nwith general safety, security and crisis management training, and by putting specific programs in place for those working in potentially\nhigh-hazard environments.\nAvailable Information\nThe Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to\nreports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (“Exchange Act”), are filed with\nthe U.S. Securities and Exchange Commission (“SEC”). Such reports and other information filed by the Company with the SEC are\navailable free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the SEC’s\nwebsite. The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor",
+    "text": "managers with questions, feedback or concerns, and the Company conducts surveys that gauge employee sentiment in areas like\ncareer development, manager performance and inclusion.\nThe Company is committed to the safety and security of its team members everywhere it operates. The Company supports employees\nwith general safety, security and crisis management training, and by putting specific programs in place for those working in potentially\nhigh-hazard environments.\nAvailable Information\nThe Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to\nreports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (“Exchange Act”), are filed with\nthe U.S. Securities and Exchange Commission (“SEC”). Such reports and other information filed by the Company with the SEC are\navailable free of charge at investor.apple.com/investor-relations/sec-filings/default-aspx when such reports are available on the SEC’s\nwebsite. The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 7,
+      "pdf_page": 7,
+      "page": 4,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -307,7 +332,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 7,
+      "pdf_page": 7,
+      "page": 4,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -319,7 +345,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 8,
+      "pdf_page": 8,
+      "page": 5,
       "section": "risk_factors",
       "type": "text",
       "extraction_method": "ocr"
@@ -331,7 +358,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 8,
+      "pdf_page": 8,
+      "page": 5,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -339,11 +367,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p8_c3",
-    "text": "the Company’s products and services. In addition, consumer confidence and spending can be materially adversely affected in response\nto changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors.\nUncertainty about, or a decline in, global or regional economic conditions can also have a significant impact on the Company’s suppliers,\ncontract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners, and developers. Potential\noutcomes include financial instability; inability to obtain credit to finance business operations; and insolvency.\nAdverse economic conditions can also lead to increased credit and collectibility risk on the Company’s trade receivables; the failure of\nderivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced liquidity; and\ndeclines in the fair values of the Company’s financial instruments. These and other impacts can materially adversely affect the\nCompany’s business, results of operations, financial condition and stock price.",
+    "text": "the Company’s products and services. In addition, consumer confidence and spending can be materially adversely affected in response\nto changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors.\nUncertainty about, or a decline in, global or regional economic conditions can also have a significant impact on the Company's suppliers,\ncontract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners, and developers. Potential\noutcomes include financial instability; inability to obtain credit to finance business operations; and insolvency.\nAdverse economic conditions can also lead to increased credit and collectibility risk on the Company’s trade receivables; the failure of\nderivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced liquidity; and\ndeclines in the fair values of the Company’s financial instruments. These and other impacts can materially adversely affect the\nCompany’s business, results of operations, financial condition and stock price.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 8,
+      "pdf_page": 8,
+      "page": 5,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -355,7 +384,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -367,7 +397,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -379,7 +410,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -391,7 +423,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -403,7 +436,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -415,7 +449,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -427,7 +462,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 9,
+      "pdf_page": 9,
+      "page": 6,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -439,7 +475,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 10,
+      "pdf_page": 10,
+      "page": 7,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -451,7 +488,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 10,
+      "pdf_page": 10,
+      "page": 7,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -463,7 +501,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 10,
+      "pdf_page": 10,
+      "page": 7,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -475,7 +514,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 10,
+      "pdf_page": 10,
+      "page": 7,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -487,7 +527,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 10,
+      "pdf_page": 10,
+      "page": 7,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -499,7 +540,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -511,7 +553,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -523,7 +566,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -535,7 +579,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -547,7 +592,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -559,7 +605,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 11,
+      "pdf_page": 11,
+      "page": 8,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -571,7 +618,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -579,11 +627,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p12_c2",
-    "text": "experience outages, service slowdowns or errors. As a result, from time to time the Company’s services have not performed as\nanticipated and may not meet customer expectations. The introduction of new and complex technologies, such as artificial intelligence\nfeatures, can increase these and other safety risks, including exposing users to harmful, inaccurate or other negative content and\nexperiences. The Company may not be able to detect and fix all issues and defects in the hardware, software and services it offers,\nwhich can result in widespread technical and performance issues affecting the Company's products and services. Errors, bugs and\nvulnerabilities can be exploited by third parties, compromising the safety and security of a user’s device. In addition, the Company can\nbe exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, property, plant and\nequipment or intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines. Quality\nproblems can adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s",
+    "text": "experience outages, service slowdowns or errors. As a result, from time to time the Company’s services have not performed as\nanticipated and may not meet customer expectations. The introduction of new and complex technologies, such as artificial intelligence\nfeatures, can increase these and other safety risks, including exposing users to harmful, inaccurate or other negative content and\nexperiences. The Company may not be able to detect and fix all issues and defects in the hardware, software and services it offers,\nwhich can result in widespread technical and performance issues affecting the Company’s products and services. Errors, bugs and\nvulnerabilities can be exploited by third parties, compromising the safety and security of a user’s device. In addition, the Company can\nbe exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, property, plant and\nequipment or intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines. Quality\nproblems can adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -595,7 +644,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -607,7 +657,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -619,7 +670,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -631,7 +683,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 12,
+      "pdf_page": 12,
+      "page": 9,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -643,7 +696,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -655,7 +709,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -667,7 +722,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -679,7 +735,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -691,7 +748,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -703,7 +761,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 13,
+      "pdf_page": 13,
+      "page": 10,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -715,7 +774,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -727,7 +787,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -739,7 +800,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -751,7 +813,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -763,7 +826,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -775,7 +839,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 14,
+      "pdf_page": 14,
+      "page": 11,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -787,7 +852,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -799,7 +865,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -811,7 +878,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -823,7 +891,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -835,7 +904,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -843,11 +913,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p15_c6",
-    "text": "available on acceptable terms, and litigation may still arise. Such agreements can also significantly reduce the Company’s revenue and\nincrease the Company’s cost of sales and operating expenses, materially adversely affecting the Company’s business, results of\noperations, financial condition and stock price. Additionally, such agreements may require the Company to change its business practices\nand limit the Company’s ability to offer certain products and services.",
+    "text": "available on acceptable terms, and litigation may still arise. Such agreements can also significantly reduce the Company’s revenue and\nincrease the Company’s cost of sales and operating expenses, materially adversely affecting the Company's business, results of\noperations, financial condition and stock price. Additionally, such agreements may require the Company to change its business practices\nand limit the Company's ability to offer certain products and services.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 15,
+      "pdf_page": 15,
+      "page": 12,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -859,7 +930,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -871,7 +943,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -883,7 +956,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -895,7 +969,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -907,7 +982,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -919,7 +995,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 16,
+      "pdf_page": 16,
+      "page": 13,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -931,7 +1008,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -943,7 +1021,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -955,7 +1034,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -967,7 +1047,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -979,7 +1060,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -991,7 +1073,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 17,
+      "pdf_page": 17,
+      "page": 14,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1003,7 +1086,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1015,7 +1099,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1027,7 +1112,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1039,7 +1125,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1051,7 +1138,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1063,7 +1151,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1075,7 +1164,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 18,
+      "pdf_page": 18,
+      "page": 15,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1083,11 +1173,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p19_c1",
-    "text": "Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign\ncurrency—denominated sales and earnings, could cause the Company to reduce international pricing or incur losses on its foreign\ncurrency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may increase the\nCompany’s cost of product components denominated in those currencies, thus adversely affecting gross margins.\nThe Company uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to\nfluctuations in foreign exchange rates. The use of such hedging activities may not be effective to offset any, or more than a portion, of\nthe adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place.\nThe Company is exposed to credit risk and fluctuations in the values of its investment portfolio.\nThe Company’s investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and",
+    "text": "Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign\ncurrency—denominated sales and earnings, could cause the Company to reduce international pricing or incur losses on its foreign\ncurrency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may increase the\nCompany’s cost of product components denominated in those currencies, thus adversely affecting gross margins.\nThe Company uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to\nfluctuations in foreign exchange rates. The use of such hedging activities may not be effective to offset any, or more than a portion, of\nthe adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place.\nThe Company is exposed to credit risk and fluctuations in the values of its investment portfolio.\nThe Company's investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 19,
+      "pdf_page": 19,
+      "page": 16,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1095,11 +1186,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p19_c2",
-    "text": "The Company’s investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and\neconomic conditions, political risk, sovereign risk, interest rate fluctuations or other factors. As a result, the value and liquidity of the\nCompany’s cash, cash equivalents and marketable securities may fluctuate substantially. Although the Company has not realized\nsignificant losses on its cash, cash equivalents and marketable securities, future fluctuations in their value could result in significant\nlosses and could have a material adverse impact on the Company’s results of operations, financial condition and stock price.\nThe Company is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and prepayments\nrelated to long-term supply agreements, and this risk is heightened during periods when economic conditions worsen.\nThe Company distributes its products and certain of its services through third-party cellular network carriers and other resellers. The\nCompany also sells its products and services directly to small and mid-sized businesses and education, enterprise and government",
+    "text": "The Company's investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and\neconomic conditions, political risk, sovereign risk, interest rate fluctuations or other factors. As a result, the value and liquidity of the\nCompany’s cash, cash equivalents and marketable securities may fluctuate substantially. Although the Company has not realized\nsignificant losses on its cash, cash equivalents and marketable securities, future fluctuations in their value could result in significant\nlosses and could have a material adverse impact on the Company’s results of operations, financial condition and stock price.\nThe Company is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and prepayments\nrelated to long-term supply agreements, and this risk is heightened during periods when economic conditions worsen.\nThe Company distributes its products and certain of its services through third-party cellular network carriers and other resellers. The\nCompany also sells its products and services directly to small and mid-sized businesses and education, enterprise and government",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 19,
+      "pdf_page": 19,
+      "page": 16,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1111,7 +1203,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 19,
+      "pdf_page": 19,
+      "page": 16,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1123,7 +1216,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 19,
+      "pdf_page": 19,
+      "page": 16,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1135,7 +1229,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 19,
+      "pdf_page": 19,
+      "page": 16,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1147,7 +1242,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 20,
+      "pdf_page": 20,
+      "page": 17,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1155,11 +1251,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p20_c2",
-    "text": "Board of Directors (“Board”), and the Company’s share repurchase program does not obligate it to acquire any specific number of\nshares. If the Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market\nexpectations, the price of the Company’s stock may decline significantly, which could have a material adverse impact on investor\nconfidence and employee retention.\nItem 1B. Unresolved Staff Comments\nNone.\nItem 1C. Cybersecurity\nThe Company’s management, led by its Head of Corporate Information Security, has overall responsibility for identifying, assessing and\nmanaging any material risks from cybersecurity threats. The Company’s Head of Corporate Information Security leads a dedicated\nInformation Security team of highly skilled individuals with experience across industries that, among other things, develops and\ndistributes information security policies, standards and procedures; engages in employee cybersecurity training; implements security\ncontrols; assesses security risk and compliance posture; monitors and responds to security events; and executes security testing and",
+    "text": "Board of Directors (“Board”), and the Company’s share repurchase program does not obligate it to acquire any specific number of\nshares. If the Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market\nexpectations, the price of the Company's stock may decline significantly, which could have a material adverse impact on investor\nconfidence and employee retention.\nItem 1B. Unresolved Staff Comments\nNone.\nItem 1C. Cybersecurity\nThe Company’s management, led by its Head of Corporate Information Security, has overall responsibility for identifying, assessing and\nmanaging any material risks from cybersecurity threats. The Company’s Head of Corporate Information Security leads a dedicated\nInformation Security team of highly skilled individuals with experience across industries that, among other things, develops and\ndistributes information security policies, standards and procedures; engages in employee cybersecurity training; implements security\ncontrols; assesses security risk and compliance posture; monitors and responds to security events; and executes security testing and",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 20,
+      "pdf_page": 20,
+      "page": 17,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1171,7 +1268,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 20,
+      "pdf_page": 20,
+      "page": 17,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1179,11 +1277,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p20_c4",
-    "text": "cybersecurity incidents across the Company and its suppliers to senior management and the Audit and Finance Committee (“Audit\nCommittee”) of the Board. The Company’s enterprise risk management program is designed to identify, assess, and monitor the\nCompany’s business risks, including financial, operational, compliance and reputational risks, and reflects management's assessment of\ncybersecurity risks.\nThe Audit Committee assists the Board in the oversight and monitoring of cybersecurity matters. The Audit Committee regularly reviews\nand discusses the Company’s cybersecurity risks with management, including the Company's Head of Corporate Information Security,\nits General Counsel and the Heads of Compliance and Business Conduct, Business Assurance, and Internal Audit, and receives\nupdates, as necessary, regarding cybersecurity incidents. The Chair of the Audit Committee regularly reports the substance of such\nreviews and discussions to the Board, as necessary, and recommends to the Board such actions as the Audit Committee deems\nappropriate.\nFor a discussion of the Company’s cybersecurity-related risks, see Item 1A of this Form 10-K under the heading “Risk Factors.”",
+    "text": "cybersecurity incidents across the Company and its suppliers to senior management and the Audit and Finance Committee (“Audit\nCommittee”) of the Board. The Company’s enterprise risk management program is designed to identify, assess, and monitor the\nCompany’s business risks, including financial, operational, compliance and reputational risks, and reflects management's assessment of\ncybersecurity risks.\nThe Audit Committee assists the Board in the oversight and monitoring of cybersecurity matters. The Audit Committee regularly reviews\nand discusses the Company’s cybersecurity risks with management, including the Company’s Head of Corporate Information Security,\nits General Counsel and the Heads of Compliance and Business Conduct, Business Assurance, and Internal Audit, and receives\nupdates, as necessary, regarding cybersecurity incidents. The Chair of the Audit Committee regularly reports the substance of such\nreviews and discussions to the Board, as necessary, and recommends to the Board such actions as the Audit Committee deems\nappropriate.\nFor a discussion of the Company’s cybersecurity-related risks, see Item 1A of this Form 10-K under the heading “Risk Factors.”",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 20,
+      "pdf_page": 20,
+      "page": 17,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1195,7 +1294,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 20,
+      "pdf_page": 20,
+      "page": 17,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1207,7 +1307,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1219,7 +1320,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1227,11 +1329,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p21_c3",
-    "text": "smartphones” and “smartphones” in violation of U.S. antitrust laws. The DOJ is seeking equitable relief to redress the alleged\nanticompetitive behavior. In addition, various civil litigation matters have been filed in state and federal courts in the U.S. alleging similar\nviolations of U.S. antitrust laws and seeking monetary damages and other nonmonetary relief. The Company believes it has substantial\ndefenses and intends to vigorously defend itself.\nEpic Games\nEpic Games, Inc. filed a lawsuit in the U.S. District Court for the Northern District of California (“California District Court”) against the\nCompany alleging violations of federal and state antitrust laws and California’s unfair competition law based upon the Company’s\noperation of its App Store. The California District Court found that certain provisions of the Company's App Review Guidelines violate\nCalifornia’s unfair competition law and issued an injunction (the “2021 Injunction”) enjoining the Company from prohibiting developers\nfrom including in their apps buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than",
+    "text": "smartphones” and “smartphones” in violation of U.S. antitrust laws. The DOJ is seeking equitable relief to redress the alleged\nanticompetitive behavior. In addition, various civil litigation matters have been filed in state and federal courts in the U.S. alleging similar\nviolations of U.S. antitrust laws and seeking monetary damages and other nonmonetary relief. The Company believes it has substantial\ndefenses and intends to vigorously defend itself.\nEpic Games\nEpic Games, Inc. filed a lawsuit in the U.S. District Court for the Northern District of California (“California District Court”) against the\nCompany alleging violations of federal and state antitrust laws and California's unfair competition law based upon the Company’s\noperation of its App Store. The California District Court found that certain provisions of the Company's App Review Guidelines violate\nCalifornia’s unfair competition law and issued an injunction (the “2021 Injunction”) enjoining the Company from prohibiting developers\nfrom including in their apps buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1243,7 +1346,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1255,7 +1359,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1267,7 +1372,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 21,
+      "pdf_page": 21,
+      "page": 18,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1279,7 +1385,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 22,
+      "pdf_page": 22,
+      "page": 19,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1287,11 +1394,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p22_t1_c1",
-    "text": "As of October 17, 2025, there were 22,429 shareholders of record.\nPurchases of Equity Securities by the Issuer and Affiliated Purchasers\nShare repurchase activity during the three months ended September 27, 2025, was as follows (in millions, except number of shares,\nwhich are reflected in thousands, and per-share amounts):\nTotal Number of\nShares | Approximate Dollar\nPurchased as | Value of\nAverage | Part of Publicly Shares That May Yet\nTotal Number | Price | Announced | Be Purchased\nof Shares | Paid Per | Plans or | Under the Plans or\nPeriods | Purchased | Share | Programs | Programs “)\nJune 29, 2025 to August 2, 2025:\nOpen market and privately negotiated purchases | 33,265 $ 210.43 | 33,265\nAugust 3, 2025 to August 30, 2025:\nOpen market and privately negotiated purchases | 28,986 $ 224.25 | 28,986\nAugust 31, 2025 to September 27, 2025:\nOpen market and privately negotiated purchases | 27,247 $ 238.56 | 27,247\nTotal | 89,498 | $ | 99,779",
+    "text": "As of October 17, 2025, there were 22,429 shareholders of record.\nPurchases of Equity Securities by the Issuer and Affiliated Purchasers\nShare repurchase activity during the three months ended September 27, 2025, was as follows (in millions, except number of shares,\nwhich are reflected in thousands, and per-share amounts):\nTotal Number of\nShares | Approximate Dollar\nPurchased as | Value of\nAverage | Part of Publicly Shares That May Yet\nTotal Number | Price | Announced | Be Purchased\nof Shares | Paid Per | Plans or | Under the Plans or\nPeriods | Purchased | Share | Programs | Programs “\nJune 29, 2025 to August 2, 2025:\nOpen market and privately negotiated purchases | 33,265 $ 210.43 | 33,265\nAugust 3, 2025 to August 30, 2025:\nOpen market and privately negotiated purchases | 28,986 $ 224.25 | 28,986\nAugust 31, 2025 to September 27, 2025:\nOpen market and privately negotiated purchases | 27,247 $ 238.56 | 27,247\nTotal | 89,498 | $ | 99,779",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 22,
+      "pdf_page": 22,
+      "page": 19,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p22_t1",
@@ -1304,7 +1412,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 23,
+      "pdf_page": 23,
+      "page": 20,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1312,11 +1421,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p23_t1_c1",
-    "text": "The following graph shows a comparison of five-year cumulative total shareholder return, calculated on a dividend-reinvested basis, for\nthe Company, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index. The graph assumes $100 was invested\nin each of the Company’s common stock, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index as of the\nmarket close on September 25, 2020. Past stock price performance is not necessarily indicative of future stock price performance.\nCOMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN\nAmong Apple Inc., the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index\n$300\nra\na\nc\na\n=\n7 | -_\n$200 ~ | Z | _— _\n_",
+    "text": "The following graph shows a comparison of five-year cumulative total shareholder return, calculated on a dividend-reinvested basis, for\nthe Company, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index. The graph assumes $100 was invested\nin each of the Company’s common stock, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index as of the\nmarket close on September 25, 2020. Past stock price performance is not necessarily indicative of future stock price performance.\nCOMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN\nAmong Apple Inc., the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index\n$300\n¢\n7\na\n=\n7 | -_\n$200 ~ | 4 | _\n—\n_",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 23,
+      "pdf_page": 23,
+      "page": 20,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p23_t1",
@@ -1325,11 +1435,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p24_c1",
-    "text": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations\nThe following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in\nPart Il, Item 8 of this Form 10-K. This Item generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and\n2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 are not included, and can be found in\n“Management's Discussion and Analysis of Financial Condition and Results of Operations” in Part Il, Item 7 of the Company’s Annual\nReport on Form 10-K for the fiscal year ended September 28, 2024.\nProduct, Service and Software Announcements\nThe Company announces new product, service and software offerings at various times during the year. Significant announcements\nduring fiscal year 2025 included the following:\nFirst Quarter 2025:\n* MacBook Pro\n* Mac mini\n* iMac\n* iPad mini\nSecond Quarter 2025:\n« iPhone 16e\n* iPad Air\n« iPad\n* MacBook Air\n* — Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:",
+    "text": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations\nThe following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in\nPart Il, Item 8 of this Form 10-K. This Item generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and\n2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 are not included, and can be found in\n“Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part Il, Item 7 of the Company’s Annual\nReport on Form 10-K for the fiscal year ended September 28, 2024.\nProduct, Service and Software Announcements\nThe Company announces new product, service and software offerings at various times during the year. Significant announcements\nduring fiscal year 2025 included the following:\nFirst Quarter 2025:\n* — MacBook Pro\n* Mac mini\n* iMac\n¢ iPad mini\nSecond Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 24,
+      "pdf_page": 24,
+      "page": 21,
       "section": "management_discussion",
       "type": "text",
       "extraction_method": "ocr"
@@ -1337,11 +1448,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p24_c2",
-    "text": "Second Quarter 2025:\n« iPhone 16e\n* iPad Air\n« iPad\n* MacBook Air\n* — Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n* AirPods Pro 3\nFiscal Period\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company's fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
+    "text": "Second Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« — Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n« — AirPods Pro 3\nFiscal Period\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 24,
+      "pdf_page": 24,
+      "page": 21,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1353,7 +1465,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 25,
+      "pdf_page": 25,
+      "page": 22,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1365,7 +1478,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 25,
+      "pdf_page": 25,
+      "page": 22,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1377,7 +1491,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 25,
+      "pdf_page": 25,
+      "page": 22,
       "section": "business",
       "type": "table",
       "table_id": "apple_2025_10k_p25_t1",
@@ -1390,7 +1505,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 26,
+      "pdf_page": 26,
+      "page": 23,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1398,11 +1514,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p26_t1_c1",
-    "text": "Products and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 | Change | 2024 | Change | 2023\niPhone | $ 209,586 | 4% $ 201,183 | —% §$ 200,583\nMac | 33,708 | 12% | 29,984 | 2% | 29,357\niPad | 28,023 | 5% | 26,694 | (6)% | 28,300\nWearables, Home and Accessories | 35,686 | (4)% | 37,005 | (7)% | 39,845\nServices () | 109,158 | 14% | 96,169 | 13% | 85,200\nTotal net sales | $ 416,161 | 6% § 391,035 | 2% $ 383,285",
+    "text": "Products and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 | Change | 2024 | Change | 2023\niPhone | $ 209,586 | 4% $ 201,183 | —% $ 200,583\nMac | 33,708 | 12% | 29,984 | 2% | 29,357\niPad | 28,023 | 5% | 26,694 | (6)% | 28,300\nWearables, Home and Accessories | 35,686 | (4)% | 37,005 | (7)% | 39,845\nServices () | 109,158 | 14% | 96,169 | 13% | 85,200\nTotal net sales | $ 416,161 | 6% § 391,035 | 2% $ 383,285",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 26,
+      "pdf_page": 26,
+      "page": 23,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p26_t1",
@@ -1415,7 +1532,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 27,
+      "pdf_page": 27,
+      "page": 24,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1427,7 +1545,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 27,
+      "pdf_page": 27,
+      "page": 24,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p27_t1",
@@ -1436,11 +1555,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p27_t2_c1",
-    "text": "Services Gross Margin\nServices gross margin increased during 2025 compared to 2024 primarily due to higher Services net sales and a different mix of\nservices.\nServices gross margin percentage increased during 2025 compared to 2024 primarily due to a different mix of services, partially offset\nby higher costs.\nThe Company’s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of this Form 10-K under the\nheading “Risk Factors.” As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.\nOperating Expenses\nOperating expenses for 2025, 2024 and 2023 were as follows (dollars in millions):\n2025 | Change | 2024 | Change | 2023\nResearch and development | $ 34,550 | 10% $ 31,370 | 5% $ 29,915\nPercentage of total net sales | 8% | 8% | 8%\nSelling, general and administrative | $ 27,601 | 6% §$ 26,097 | 5% $ 24,932\nPercentage of total net sales | 7% | 7% | 7%\nTotal operating expenses | $ 62,151 | 8% §$ 57,467 | 5% §$ 54,847\nPercentage of total net sales | 15% | 15% | 14%",
+    "text": "Services Gross Margin\nServices gross margin increased during 2025 compared to 2024 primarily due to higher Services net sales and a different mix of\nservices.\nServices gross margin percentage increased during 2025 compared to 2024 primarily due to a different mix of services, partially offset\nby higher costs.\nThe Company’s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of this Form 10-K under the\nheading “Risk Factors.” As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.\nOperating Expenses\nOperating expenses for 2025, 2024 and 2023 were as follows (dollars in millions):\n2025 | Change | 2024 | Change | 2023\nResearch and development | $ 34,550 | 10% $ 31,370 | 5% $ 29,915\nPercentage of total net sales | 8% | 8% | 8%\nSelling, general and administrative | $ 27,601 | 6% $ 26,097 | 5% $ 24,932\nPercentage of total net sales | 7% | 7% | 7%\nTotal operating expenses | $ 62,151 | 8% §$ 57,467 | 5% §$ 54,847\nPercentage of total net sales | 15% | 15% | 14%",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 27,
+      "pdf_page": 27,
+      "page": 24,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p27_t2",
@@ -1453,7 +1573,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 28,
+      "pdf_page": 28,
+      "page": 25,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1465,7 +1586,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 28,
+      "pdf_page": 28,
+      "page": 25,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1477,7 +1599,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 28,
+      "pdf_page": 28,
+      "page": 25,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1489,7 +1612,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 28,
+      "pdf_page": 28,
+      "page": 25,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1501,7 +1625,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 28,
+      "pdf_page": 28,
+      "page": 25,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p28_t1",
@@ -1514,7 +1639,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 29,
+      "pdf_page": 29,
+      "page": 26,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1526,7 +1652,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 29,
+      "pdf_page": 29,
+      "page": 26,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1538,7 +1665,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 29,
+      "pdf_page": 29,
+      "page": 26,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -1550,7 +1678,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 29,
+      "pdf_page": 29,
+      "page": 26,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1562,7 +1691,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 29,
+      "pdf_page": 29,
+      "page": 26,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1574,7 +1704,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 30,
+      "pdf_page": 30,
+      "page": 27,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1586,7 +1717,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 30,
+      "pdf_page": 30,
+      "page": 27,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1594,11 +1726,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p30_t1_c1",
-    "text": "The Company is exposed to economic risk from interest rates and foreign exchange rates. The Company uses various strategies to\nmanage these risks; however, they may still impact the Company’s consolidated financial statements.\nInterest Rate Risk\nThe Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company’s investment portfolio and term\ndebt. Increases in interest rates will negatively affect the fair value of the Company’s investment portfolio and increase the interest\nexpense on the Company’s term debt. To protect against interest rate risk, the Company may use derivative instruments, offset interest\nrate-sensitive assets and liabilities, or control duration of the investment and term debt portfolios.\nThe following table sets forth potential impacts on the Company's investment portfolio and term debt, including the effects of any\nassociated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 27, 2025 and\nSeptember 28, 2024 (dollars in millions):\nInterest Rate | Hypothetical Interest\nSensitive Instrument Rate Increase | Potential Impact | 2025 | 2024\nInvestment portfolio 100 basis points, all tenors Decline in fair value | $ | 2,416 $ | 2,755\nTerm debt | 100 basis points, all tenors Increase in annual interest expense $ | 129 $ | 139",
+    "text": "The Company is exposed to economic risk from interest rates and foreign exchange rates. The Company uses various strategies to\nmanage these risks; however, they may still impact the Company’s consolidated financial statements.\nInterest Rate Risk\nThe Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company’s investment portfolio and term\ndebt. Increases in interest rates will negatively affect the fair value of the Company’s investment portfolio and increase the interest\nexpense on the Company’s term debt. To protect against interest rate risk, the Company may use derivative instruments, offset interest\nrate—sensitive assets and liabilities, or control duration of the investment and term debt portfolios.\nThe following table sets forth potential impacts on the Company’s investment portfolio and term debt, including the effects of any\nassociated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 27, 2025 and\nSeptember 28, 2024 (dollars in millions):\nInterest Rate | Hypothetical Interest\nSensitive Instrument Rate Increase | Potential Impact | 2025 | 2024\nInvestment portfolio 100 basis points, all tenors Decline in fair value | $ | 2,416 $ | 2,755\nTerm debt | 100 basis points, all tenors Increase in annual interest expense $ | 129 $ | 139",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 30,
+      "pdf_page": 30,
+      "page": 27,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p30_t1",
@@ -1611,7 +1744,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 31,
+      "pdf_page": 31,
+      "page": 28,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1619,11 +1753,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p31_t1_c1",
-    "text": "Item 8. Financial Statements and Supplementary Data\nIndex to Consolidated Financial Statements | Page\nConsolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and September\n30, 2023 | 29\nConsolidated Statements of Comprehensive Income for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 30\nConsolidated Balance Sheets as of September 27, 2025 and September 28, 2024 | 31\nConsolidated Statements of Shareholders’ Equity for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 32\nConsolidated Statements of Cash Flows for the years ended September 27, 2025, September 28, 2024 and September\n30,2023 | 33\nNotes to Consolidated Financial Statements | 34\nReports of Independent Registered Public Accounting Firm | 49",
+    "text": "Item 8. Financial Statements and Supplementary Data\nIndex to Consolidated Financial Statements | Page\nConsolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and September\n30, 2023 | 29\nConsolidated Statements of Comprehensive Income for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 30\nConsolidated Balance Sheets as of September 27,_2025 and September 28, 2024 | 31\nConsolidated Statements of Shareholders’ Equity for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 32\nConsolidated Statements of Cash Flows for the years ended September 27, 2025, September 28, 2024 and September\n30,2023 | 33\nNotes to Consolidated Financial Statements | 34\nReports of Independent Registered Public Accounting Firm | 49",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 31,
+      "pdf_page": 31,
+      "page": 28,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p31_t1",
@@ -1636,7 +1771,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 32,
+      "pdf_page": 32,
+      "page": 29,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1644,11 +1780,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p32_t1_c1",
-    "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 0A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
+    "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 202A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 32,
+      "pdf_page": 32,
+      "page": 29,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p32_t1",
@@ -1661,7 +1798,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 33,
+      "pdf_page": 33,
+      "page": 30,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1673,7 +1811,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 33,
+      "pdf_page": 33,
+      "page": 30,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p33_t1",
@@ -1686,7 +1825,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 34,
+      "pdf_page": 34,
+      "page": 31,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1698,7 +1838,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 34,
+      "pdf_page": 34,
+      "page": 31,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p34_t1",
@@ -1711,7 +1852,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 35,
+      "pdf_page": 35,
+      "page": 32,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1723,7 +1865,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 35,
+      "pdf_page": 35,
+      "page": 32,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p35_t1",
@@ -1736,7 +1879,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 36,
+      "pdf_page": 36,
+      "page": 33,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1748,7 +1892,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 36,
+      "pdf_page": 36,
+      "page": 33,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p36_t1",
@@ -1757,11 +1902,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p37_c1",
-    "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
+    "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 37,
+      "pdf_page": 37,
+      "page": 34,
       "section": "notes",
       "type": "text",
       "extraction_method": "ocr"
@@ -1773,7 +1919,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 37,
+      "pdf_page": 37,
+      "page": 34,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1785,7 +1932,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 37,
+      "pdf_page": 37,
+      "page": 34,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1797,7 +1945,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 38,
+      "pdf_page": 38,
+      "page": 35,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -1809,7 +1958,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 38,
+      "pdf_page": 38,
+      "page": 35,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1821,7 +1971,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 38,
+      "pdf_page": 38,
+      "page": 35,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1833,7 +1984,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 38,
+      "pdf_page": 38,
+      "page": 35,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1845,7 +1997,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 38,
+      "pdf_page": 38,
+      "page": 35,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1857,7 +2010,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 39,
+      "pdf_page": 39,
+      "page": 36,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1865,11 +2019,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p39_t1_c1",
-    "text": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024\nand 2023 (in millions):\n2025 | 2024 | 2023\niPhone | $ | 209,586 $ | 201,183 $ | 200,583\nMac | 33,708 | 29,984 | 29,357\niPad | 28,023 | 26,694 | 28,300\nWearables, Home and Accessories | 35,686 | 37,005 | 39,845\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | $ | 416,161 $ | 391,035 $ | 383,285\nPortion of total net sales that was included in deferred revenue as of the\nbeginning of the period | $ | 8,229 $ | 7,728 $ | 8,169",
+    "text": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024\nand 2023 (in millions):\n2025 | 2024 | 2023\niPhone | $ | 209,586 §$ | 201,183 $ | 200,583\nMac | 33,708 | 29,984 | 29,357\niPad | 28,023 | 26,694 | 28,300\nWearables, Home and Accessories | 35,686 | 37,005 | 39,845\nServices () | 109,158 | 96,169 | 85,200\nTotal net sales | $ | 416,161 $ | 391,035 $ | 383,285\nPortion of total net sales that was included in deferred revenue as of the\nbeginning of the period | $ | 8,229 $ | 7,728 $ | 8,169",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 39,
+      "pdf_page": 39,
+      "page": 36,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p39_t1",
@@ -1878,11 +2033,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p39_t2_c1",
-    "text": "The Company's proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note\n13, “Segment Information and Geographic Data” for 2025, 2024 and 2023, except in Greater China, where iPhone revenue represented\na moderately higher proportion of net sales.\nAs of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion,\nrespectively. As of September 27, 2025, the Company expects 66% of total deferred revenue to be realized in less than a year, 23%\nwithin one-to-two years, 9% within two-to-three years and 2% in greater than three years.\nNote 3 — Earnings Per Share\nThe following table shows the computation of basic and diluted earnings per share for 2025, 2024 and 2023 (net income in millions and\nshares in thousands):\n2025 | 2024 | 2023\nNumerator:\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nDenominator:\nWeighted-average basic shares outstanding | 14,948,500 | 15,343,783 | 15,744,231\nEffect of dilutive share-based awards | 56,197 | 64,312 | 68,316\nWeighted-average diluted shares | 15,004,697 | 15,408,095 | 15,812,547\nBasic earnings per share | $ | 749 $ | 6.11 §$ | 6.16\nDiluted earnings per share | $ | 7A6 $ | 6.08 §$ | 6.13",
+    "text": "The Company's proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note\n13, “Segment Information and Geographic Data” for 2025, 2024 and 2023, except in Greater China, where iPhone revenue represented\na moderately higher proportion of net sales.\nAs of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion,\nrespectively. As of September 27, 2025, the Company expects 66% of total deferred revenue to be realized in less than a year, 23%\nwithin one-to-two years, 9% within two-to-three years and 2% in greater than three years.\nNote 3 — Earnings Per Share\nThe following table shows the computation of basic and diluted earnings per share for 2025, 2024 and 2023 (net income in millions and\nshares in thousands):\n2025 | 2024 | 2023\nNumerator:\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nDenominator:\nWeighted-average basic shares outstanding | 14,948,500 | 15,343,783 | 15,744,231\nEffect of dilutive share-based awards | 56,197 | 64,312 | 68,316\nWeighted-average diluted shares | 15,004,697 | 15,408,095 | 15,812,547\nBasic earnings per share | $ | 749 §$ | 6.11 $ | 6.16\nDiluted earnings per share | $ | 7A6 $ | 6.08 §$ | 6.13",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 39,
+      "pdf_page": 39,
+      "page": 36,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p39_t2",
@@ -1891,11 +2047,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p40_c1",
-    "text": "(1) The valuation techniques used to measure the fair values of the Company’s Level 2 financial instruments, which generally have\ncounterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived\nfrom or corroborated by observable market data.\n(2) As of September 28, 2024, cash and cash equivalents included $2.6 billion held in escrow and restricted from general use. These\nrestricted cash and cash equivalents were designated to settle the Company’s obligation related to the State Aid Decision (refer to\nNote 7, “Income Taxes”).\n(3) As of September 28, 2024, current marketable securities included $13.2 billion held in escrow and restricted from general use. These\nrestricted marketable securities were designated to settle the Company's obligation related to the State Aid Decision (refer to Note 7,\n“Income Taxes’).",
+    "text": "(1) The valuation techniques used to measure the fair values of the Company’s Level 2 financial instruments, which generally have\ncounterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived\nfrom or corroborated by observable market data.\n(2) As of September 28, 2024, cash and cash equivalents included $2.6 billion held in escrow and restricted from general use. These\nrestricted cash and cash equivalents were designated to settle the Company’s obligation related to the State Aid Decision (refer to\nNote 7, “Income Taxes”).\n(3) As of September 28, 2024, current marketable securities included $13.2 billion held in escrow and restricted from general use. These\nrestricted marketable securities were designated to settle the Company's obligation related to the State Aid Decision (refer to Note 7,\n“Income Taxes”).",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 40,
+      "pdf_page": 40,
+      "page": 37,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1903,11 +2060,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p40_t1_c1",
-    "text": "Note 4 — Financial Instruments\nCash, Cash Equivalents and Marketable Securities\nThe following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of\nSeptember 27, 2025 and September 28, 2024 (in millions):\n2025\nCash and | Current Non-Current\nAdjusted Unrealized Unrealized | Fair | Cash | Marketable Marketable\nCost | Gains | Losses | Value Equivalents Securities Securities\nCash | $ 28,267 $ | — $ | — $ 28,267 $ 28,267 $ | — $ | _\nLevel 1:\nMoney market funds | 5,272 | — | — | 5,272 | 5,272 | — | —\nMutual funds | 679 | 177 | (2) | 854 | — | 854 | _—\nSubtotal | 5,951 | 177 | (2) | 6,126 | 5,272 | 854 | _\nLevel 2“):\nU.S. Treasury securities | 16,074 | 56 | (282) | 15,848 | 1,190 | 3,712 | 10,946\nU.S. agency securities | 5,269 | _ | (149) | 5,120 | 251 | 2,456 | 2,413\nNon-U.S. government securities | 6,586 | 111 | (424) | 6,273 | _ | 855 | 5,418\nCertificates of deposit and time\ndeposits | 917 | _ | _ | 917 | 904 | _ | 13\nCommercial paper | 100 | _— | _— | 100 | 50 | 50 | _—\nCorporate debt securities | 47,210 | 266 | (916) 46,560 | _ | 10,623 | 35,937\nMunicipal securities | 207 | _— | (2) | 205 | _— | 119 | 86\nMortgage- and asset-backed securities 24,130 | 126 | (1,252) | 23,004 | _— | 94 | 22,910\nSubtotal | 100,493 | 559 | (3,025) | 98,027 | 2,395 | 17,909 | 77,723\nTotal | $ 134711 736 $ | (3,027) $ | 132420 $ | 35,934 $ | $ 18763 77,723 $\n2024\nCash and | Current Non-Current\nAdjusted Unrealized Unrealized | Fair | Cash | Marketable Marketable\nCost | Gains | Losses | Value Equivalents Securities Securities\nCash | $ 27,199 $ | — $ | — $ 27,199 $ 27,199 $ | — $ | _\nLevel 1:\nMoney market funds | 778 | — | — | 778 | 778 | — | —_—\nMutual funds | 515 | 105 | (3) | 617 | _ | 617 | _\nSubtotal | 1,293 | 105 | (3) | 1,395 | 778 | 617 | _\nLevel 2 (1):\nU.S. Treasury securities | 16,150 | 45 | (516) | 15,679 | 212 | 4,087 | 11,380\nU.S. agency securities | 5,431 | _ | (272) | 5,159 | 155 | 703 | 4,301\nNon-U.S. government securities | 17,959 | 93 | (484) | 17,568 | 1,158 | 10,810 | 5,600\nCertificates of deposit and time\ndeposits | 873 | _— | _— | 873 | 387 | 478 | 8\nCommercial paper | 1,066 | — | — | 1,066 | 28 | 1,038 | —\nCorporate debt securities | 65,622 | 270 | (1,953) | 63,939 | 26 | 16,027 | 47,886\nMunicipal securities | 412 | — | (7) | 405 | — | 190 | 215\nMortgage- and asset-backed securities 24,595 | 175 | (1,403) | 23,367 | _— | 1,278 | 22,089\nSubtotal | 132,108 | 583 | (4,635) 128,056 | 1,966 | 34,611 | 91,479\nTotal (23) | $ 160,600 $ | 688 $ (4,638) $ 156,650 $ 29,943 $ 35,228 $§$ 91,479",
+    "text": "Note 4 — Financial Instruments\nCash, Cash Equivalents and Marketable Securities\nThe following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of\nSeptember 27, 2025 and September 28, 2024 (in millions):\n2025\nCash and | Current Non-Current\nAdjusted Unrealized Unrealized | Fair | Cash | Marketable Marketable\nCost | Gains | Losses | Value Equivalents Securities Securities\nCash | $ 28,267 $ | — $ | — $ 28,267 $ 28,267 $ | — §$ | _\nLevel 1:\nMoney market funds | 5,272 | —_— | — | 5,272 | 5,272 | — | —\nMutual funds | 679 | 177 | (2) | 854 | — | 854 | _—\nSubtotal | 5,951 | 177 | (2) | 6,126 | 5,272 | 854 | _\nLevel 2“):\nU.S. Treasury securities | 16,074 | 56 | (282) | 15,848 | 1,190 | 3,712 | 10,946\nU.S. agency securities | 5,269 | _ | (149) | 5,120 | 251 | 2,456 | 2,413\nNon-U.S. government securities | 6,586 | 111 | (424) | 6,273 | _ | 855 | 5,418\nCertificates of deposit and time\ndeposits | 917 | _— | _ | 917 | 904 | _ | 13\nCommercial paper | 100 | —_ | _— | 100 | 50 | 50 | —_—\nCorporate debt securities | 47,210 | 266 | (916) 46,560 | _ | 10,623 | 35,937\nMunicipal securities | 207 | _ | (2) | 205 | _ | 119 | 86\nMortgage- and asset-backed securities 24,130 | 126 | (1,252) | 23,004 | _— | 94 | 22,910\nSubtotal | 100,493 | 559 | (3,025) | 98,027 | 2,395 | 17,909 | 77,723\nTotal | $ 134711 736 $ | (3,027) $ | 132420 $ | 35,934 $ | $ 18763 77,723 $\n2024\nCash and | Current Non-Current\nAdjusted Unrealized Unrealized | Fair | Cash | Marketable Marketable\nCost | Gains | Losses | Value Equivalents Securities Securities\nCash | $ 27,199 $ | — $ | — $ 27,199 $ 27,199 $ | — $ | _\nLevel 1:\nMoney market funds | 778 | _— | _— | 778 | 778 | _— | —_—\nMutual funds | 515 | 105 | (3) | 617 | _ | 617 | _\nSubtotal | 1,293 | 105 | (3) | 1,395 | 778 | 617 | _\nLevel 2 (\"):\nU.S. Treasury securities | 16,150 | 45 | (516) | 15,679 | 212 | 4,087 | 11,380\nU.S. agency securities | 5,431 | _ | (272) | 5,159 | 155 | 703 | 4,301\nNon-U.S. government securities | 17,959 | 93 | (484) | 17,568 | 1,158 | 10,810 | 5,600\nCertificates of deposit and time\ndeposits | 873 | — | _— | 873 | 387 | 478 | 8\nCommercial paper | 1,066 | — | — | 1,066 | 28 | 1,038 | —\nCorporate debt securities | 65,622 | 270 | (1,953) | 63,939 | 26 | 16,027 | 47,886\nMunicipal securities | 412 | — | (7) | 405 | — | 190 | 215\nMortgage- and asset-backed securities 24,595 | 175 | (1,403) | 23,367 | _— | 1,278 | 22,089\nSubtotal | 132,108 | 583 | (4,635) 128,056 | 1,966 | 34,611 | 91,479\nTotal (203) | $ 160,600 $ | 688 §$ (4,638) $ 156,650 $ 29,943 $ 35,228 $§$ 91,479",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 40,
+      "pdf_page": 40,
+      "page": 37,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p40_t1",
@@ -1916,11 +2074,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p41_c1",
-    "text": "As of September 27, 2025, 80% of the Company’s non-current marketable debt securities other than mortgage- and asset-backed\nsecurities had maturities between 1 and 5 years, 15% between 5 and 10 years, and 5% greater than 10 years. As of September 27,\n2025, 13% of the Company’s non-current mortgage- and asset-backed securities had maturities between 1 and 5 years, 14% between 5\nand 10 years, and 73% greater than 10 years.\nThe Company’s investments in marketable debt securities have been classified and accounted for as available-for-sale. The Company\nclassifies marketable debt securities as either current or non-current based on each instrument’s underlying maturity.\nDerivative Instruments and Hedging\nThe Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk.\nHowever, the Company may choose not to hedge certain exposures for a variety of reasons including accounting considerations or the\nprohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the\nfinancial impact resulting from movements in foreign exchange or interest rates.",
+    "text": "As of September 27, 2025, 80% of the Company’s non-current marketable debt securities other than mortgage- and asset-backed\nsecurities had maturities between 1 and 5 years, 15% between 5 and 10 years, and 5% greater than 10 years. As of September 27,\n2025, 13% of the Company’s non-current mortgage- and asset-backed securities had maturities between 1 and 5 years, 14% between 5\nand 10 years, and 73% greater than 10 years.\nThe Company’s investments in marketable debt securities have been classified and accounted for as available-for-sale. The Company\nclassifies marketable debt securities as either current or non-current based on each instrument's underlying maturity.\nDerivative Instruments and Hedging\nThe Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk.\nHowever, the Company may choose not to hedge certain exposures for a variety of reasons including accounting considerations or the\nprohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the\nfinancial impact resulting from movements in foreign exchange or interest rates.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 41,
+      "pdf_page": 41,
+      "page": 38,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -1932,7 +2091,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 41,
+      "pdf_page": 41,
+      "page": 38,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -1944,7 +2104,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 41,
+      "pdf_page": 41,
+      "page": 38,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -1956,7 +2117,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 41,
+      "pdf_page": 41,
+      "page": 38,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1968,7 +2130,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 41,
+      "pdf_page": 41,
+      "page": 38,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1976,11 +2139,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p42_c1",
-    "text": "As of September 27, 2025 and September 28, 2024, the carrying amount of the Company's current and non-current term debt subject to\nfair value hedges was $12.6 billion and $13.5 billion, respectively.\nAccounts Receivable\nTrade Receivables\nAs of September 27, 2025, the Company had one customer that represented 10% or more of total trade receivables, which accounted\nfor 12%. The Company’s third-party cellular network carriers accounted for 34% and 38% of total trade receivables as of September 27,\n2025 and September 28, 2024, respectively. The Company requires third-party credit support or collateral from certain customers to limit\ncredit risk.\nDepreciation expense on property, plant and equipment was $8.0 billion, $8.2 billion and $8.5 billion during 2025, 2024 and 2023,\nrespectively.",
+    "text": "As of September 27, 2025 and September 28, 2024, the carrying amount of the Company’s current and non-current term debt subject to\nfair value hedges was $12.6 billion and $13.5 billion, respectively.\nAccounts Receivable\nTrade Receivables\nAs of September 27, 2025, the Company had one customer that represented 10% or more of total trade receivables, which accounted\nfor 12%. The Company’s third-party cellular network carriers accounted for 34% and 38% of total trade receivables as of September 27,\n2025 and September 28, 2024, respectively. The Company requires third-party credit support or collateral from certain customers to limit\ncredit risk.\nDepreciation expense on property, plant and equipment was $8.0 billion, $8.2 billion and $8.5 billion during 2025, 2024 and 2023,\nrespectively.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 42,
+      "pdf_page": 42,
+      "page": 39,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -1992,7 +2156,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 42,
+      "pdf_page": 42,
+      "page": 39,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p42_t1",
@@ -2005,7 +2170,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 42,
+      "pdf_page": 42,
+      "page": 39,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p42_t2",
@@ -2014,11 +2180,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p43_c1",
-    "text": "Note 7 — Income Taxes\nEuropean Commission State Aid Decision\nOn August 30, 2016, the Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in\n1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (“State Aid Decision’).\nThe State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June 2003 through\nForeign pretax earnings were $82.0 billion, $77.3 billion and $72.9 billion in 2025, 2024 and 2023, respectively.",
+    "text": "Note 7 — Income Taxes\nEuropean Commission State Aid Decision\nOn August 30, 2016, the Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in\n1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (“State Aid Decision”).\nThe State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June 2003 through\nForeign pretax earnings were $82.0 billion, $77.3 billion and $72.9 billion in 2025, 2024 and 2023, respectively.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 43,
+      "pdf_page": 43,
+      "page": 40,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2026,11 +2193,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p43_t1_c1",
-    "text": "Note 6 — Consolidated Financial Statement Details\nThe following tables show the Company’s consolidated financial statement details as of September 27, 2025 and September 28, 2024\n(in millions):\nOther Non-Current Assets\n2025 | 2024\nDeferred tax assets | $ | 20,777 $ | 19,499\nOther non-current assets | 62,950 | 55,335\nTotal other non-current assets | $ | 83,727 $ | 74,834\nOther Current Liabilities\n2025 | 2024\nIncome taxes payable | $ | 13,016 §$ | 26,601\nAccrued distribution and marketing | 8,919 | 7,679\nOther current liabilities | 44,452 | 44,024\nTotal other current liabilities | $ | 66,387 $ | 78,304",
+    "text": "Note 6 — Consolidated Financial Statement Details\nThe following tables show the Company’s consolidated financial statement details as of September 27, 2025 and September 28, 2024\n(in millions):\nOther Non-Current Assets\n2025 | 2024\nDeferred tax assets | $ | 20,777 $ | 19,499\nOther non-current assets | 62,950 | 55,335\nTotal other non-current assets | $ | 83,727 $ | 74,834\nOther Current Liabilities\n2025 | 2024\nIncome taxes payable | $ | 13,016 $ | 26,601\nAccrued distribution and marketing | 8,919 | 7,679\nOther current liabilities | 44,452 | 44,024\nTotal other current liabilities | $ | 66,387 $ | 78,304",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 43,
+      "pdf_page": 43,
+      "page": 40,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p43_t1",
@@ -2043,7 +2211,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 43,
+      "pdf_page": 43,
+      "page": 40,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p43_t2",
@@ -2056,7 +2225,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 44,
+      "pdf_page": 44,
+      "page": 41,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2064,11 +2234,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p44_t1_c1",
-    "text": "A reconciliation of the provision for income taxes to the amount computed by applying the statutory federal income tax rate (21% in\n2025, 2024 and 2023) to income before provision for income taxes for 2025, 2024 and 2023 is as follows (dollars in millions):\n2025 | 2024 | 2023\nComputed expected tax | $ | 27,873 $ | 25,932 $ | 23,885\nEarnings of foreign subsidiaries | (8,120) | (5,311) | (5,744)\nChange in valuation allowance | 2,091 | — | _—\nResearch and development credit, net | (1,049) | (1,397) | (1,212)\nImpact of the State Aid Decision | (486) | 10,246 | _\nOther | 410 | 279 | (188)\nProvision for income taxes | $ | 20,719 $ | 29,749 $ | 16,741\nEffective tax rate | 456% 241% 44.7%\nDeferred Tax Assets and Liabilities\nAs of September 27, 2025 and September 28, 2024, the significant components of the Company’s deferred tax assets and liabilities\nwere as follows (in millions):\n2025 | 2024\nDeferred tax assets:\nCapitalized research and development | $ | 15,041 $ | 10,739\nTax credit carryforwards | 8,643 | 8,856\nAccrued liabilities and other reserves | 6,154 | 6,114\nDeferred revenue | 2,953 | 3,413\nLease liabilities | 2,577 | 2,410\nOther | 3,049 | 3,341\nTotal deferred tax assets | 38,417 | 34,873\nLess: Valuation allowance | (10,966) | (8,866)\nTotal deferred tax assets, net | 27,451 | 26,007\nDeferred tax liabilities:\nDepreciation | 3,276 | 2,551\nRight-of-use assets | 2,300 | 2,125\nMinimum tax on foreign earnings | 1,217 | 1,674\nOther | 678 | 455\nTotal deferred tax liabilities | 7,471 | 6,805\nNet deferred tax assets | $ | 19,980 $ | 19,202",
+    "text": "A reconciliation of the provision for income taxes to the amount computed by applying the statutory federal income tax rate (21% in\n2025, 2024 and 2023) to income before provision for income taxes for 2025, 2024 and 2023 is as follows (dollars in millions):\n2025 | 2024 | 2023\nComputed expected tax | $ | 27,873 $ | 25,932 $ | 23,885\nEarnings of foreign subsidiaries | (8,120) | (5,311) | (5,744)\nChange in valuation allowance | 2,091 | _— | —_\nResearch and development credit, net | (1,049) | (1,397) | (1,212)\nImpact of the State Aid Decision | (486) | 10,246 | _\nOther | 410 | 279 | (188)\nProvision for income taxes | $ | 20,719 $ | 29,749 $ | 16,741\nEffective tax rate | 456% 241% 44.7%\nDeferred Tax Assets and Liabilities\nAs of September 27, 2025 and September 28, 2024, the significant components of the Company’s deferred tax assets and liabilities\nwere as follows (in millions):\n2025 | 2024\nDeferred tax assets:\nCapitalized research and development | $ | 15,041 $ | 10,739\nTax credit carryforwards | 8,643 | 8,856\nAccrued liabilities and other reserves | 6,154 | 6,114\nDeferred revenue | 2,953 | 3,413\nLease liabilities | 2,577 | 2,410\nOther | 3,049 | 3,341\nTotal deferred tax assets | 38,417 | 34,873\nLess: Valuation allowance | (10,966) | (8,866)\nTotal deferred tax assets, net | 27,451 | 26,007\nDeferred tax liabilities:\nDepreciation | 3,276 | 2,551\nRight-of-use assets | 2,300 | 2,125\nMinimum tax on foreign earnings | 1,217 | 1,674\nOther | 678 | 455\nTotal deferred tax liabilities | 7,471 | 6,805\nNet deferred tax assets | $ | 19,980 $ | 19,202",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 44,
+      "pdf_page": 44,
+      "page": 41,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p44_t1",
@@ -2081,7 +2252,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 45,
+      "pdf_page": 45,
+      "page": 42,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2093,7 +2265,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 45,
+      "pdf_page": 45,
+      "page": 42,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p45_t1",
@@ -2106,7 +2279,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 45,
+      "pdf_page": 45,
+      "page": 42,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p45_t2",
@@ -2119,7 +2293,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 46,
+      "pdf_page": 46,
+      "page": 43,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2127,11 +2302,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p46_t1_c1",
-    "text": "Lease liability maturities as of September 27, 2025, are as follows (in millions):\nOperating | Finance\nLeases | Leases | Total\n2026 | $ | 1,967 $ | 563 §$ | 2,530\n2027 | 1,988 | 73 | 2,061\n2028 | 1,848 | 51 | 1,899\n2029 | 1,585 | 48 | 1,633\n2030 | 1,381 | 43 | 1,424\nThereafter | 5,956 | 801 | 6,757\nTotal undiscounted liabilities | 14,725 | 1,579 | 16,304\nLess: Imputed interest | (2,235) | (349) | (2,584)\nTotal lease liabilities | $ | 12,490 $ | 1,230 $ | 13,720",
+    "text": "Lease liability maturities as of September 27, 2025, are as follows (in millions):\nOperating | Finance\nLeases | Leases | Total\n2026 | $ | 1,967 $ | 563 $ | 2,530\n2027 | 1,988 | 73 | 2,061\n2028 | 1,848 | 51 | 1,899\n2029 | 1,585 | 48 | 1,633\n2030 | 1,381 | 43 | 1,424\nThereafter | 5,956 | 801 | 6,757\nTotal undiscounted liabilities | 14,725 | 1,579 | 16,304\nLess: Imputed interest | (2,235) | (349) | (2,584)\nTotal lease liabilities | $ | 12,490 $ | 1,230 $ | 13,720",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 46,
+      "pdf_page": 46,
+      "page": 43,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p46_t1",
@@ -2140,11 +2316,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p46_t2_c1",
-    "text": "As of September 27, 2025, the Company had $523 million of fixed payment obligations under additional leases, primarily for corporate\nfacilities and retail space, that had not yet commenced. These leases are expected to commence between 2026 and 2027, with lease\nterms ranging from 1 year to 21 years.\nNote 9 — Debt\nCommercial Paper\nThe Company issues unsecured short-term promissory notes pursuant to a commercial paper program. The Company uses net\nproceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of\nSeptember 27, 2025 and September 28, 2024, the Company had $8.0 billion and $10.0 billion of commercial paper outstanding,\nrespectively, with maturities generally less than nine months. The weighted-average interest rate of the Company’s commercial paper\nwas 4.19% and 5.00% as of September 27, 2025 and September 28, 2024, respectively. The following table provides a summary of\ncash flows associated with commercial paper for 2025, 2024 and 2023 (in millions):\n2025 | 2024 | 2023\nMaturities 90 days or less:\nProceeds from/(Repayments of) commercial paper, net | $ | (5,820) $ | 3,960 $ | (1,333)\nMaturities greater than 90 days:\nProceeds from commercial paper | 5,836 | — | —\nRepayments of commercial paper | (2,048) | _— | (2,645)\nProceeds from/(Repayments of) commercial paper, net | 3,788 | _— | (2,645)\nTotal proceeds from/(repayments of) commercial paper, net | $ | (2,032) $ | 3,960 $ | (3,978)",
+    "text": "As of September 27, 2025, the Company had $523 million of fixed payment obligations under additional leases, primarily for corporate\nfacilities and retail space, that had not yet commenced. These leases are expected to commence between 2026 and 2027, with lease\nterms ranging from 1 year to 21 years.\nNote 9 — Debt\nCommercial Paper\nThe Company issues unsecured short-term promissory notes pursuant to a commercial paper program. The Company uses net\nproceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of\nSeptember 27, 2025 and September 28, 2024, the Company had $8.0 billion and $10.0 billion of commercial paper outstanding,\nrespectively, with maturities generally less than nine months. The weighted-average interest rate of the Company’s commercial paper\nwas 4.19% and 5.00% as of September 27, 2025 and September 28, 2024, respectively. The following table provides a summary of\ncash flows associated with commercial paper for 2025, 2024 and 2023 (in millions):\n2025 | 2024 | 2023\nMaturities 90 days or less:\nProceeds from/(Repayments of) commercial paper, net | $ | (5,820) $ | 3,960 $ | (1,333)\nMaturities greater than 90 days:\nProceeds from commercial paper | 5,836 | — | _—\nRepayments of commercial paper | (2,048) | — | (2,645)\nProceeds from/(Repayments of) commercial paper, net | 3,788 | — | (2,645)\nTotal proceeds from/(repayments of) commercial paper, net | $ | (2,032) $ | 3,960 $ | (3,978)",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 46,
+      "pdf_page": 46,
+      "page": 43,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p46_t2",
@@ -2157,7 +2334,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 47,
+      "pdf_page": 47,
+      "page": 44,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2169,7 +2347,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 47,
+      "pdf_page": 47,
+      "page": 44,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p47_t1",
@@ -2182,7 +2361,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 48,
+      "pdf_page": 48,
+      "page": 45,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2194,7 +2374,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 48,
+      "pdf_page": 48,
+      "page": 45,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p48_t1",
@@ -2207,7 +2388,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 48,
+      "pdf_page": 48,
+      "page": 45,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p48_t2",
@@ -2220,7 +2402,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 49,
+      "pdf_page": 49,
+      "page": 46,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -2232,7 +2415,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 49,
+      "pdf_page": 49,
+      "page": 46,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2240,11 +2424,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p49_c3",
-    "text": "suppliers may fail, be subject to consolidation within a particular industry, or decide to concentrate on the production of common\ncomponents instead of components customized to meet the Company’s requirements, further limiting the Company's ability to obtain\nsufficient quantities of components on commercially reasonable terms, or at all.\nSubstantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in China\nmainland, India, Japan, South Korea, Taiwan and Vietnam.",
+    "text": "suppliers may fail, be subject to consolidation within a particular industry, or decide to concentrate on the production of common\ncomponents instead of components customized to meet the Company’s requirements, further limiting the Company’s ability to obtain\nsufficient quantities of components on commercially reasonable terms, or at all.\nSubstantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in China\nmainland, India, Japan, South Korea, Taiwan and Vietnam.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 49,
+      "pdf_page": 49,
+      "page": 46,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2256,7 +2441,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 49,
+      "pdf_page": 49,
+      "page": 46,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p49_t1",
@@ -2269,7 +2455,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 50,
+      "pdf_page": 50,
+      "page": 47,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -2277,11 +2464,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p50_t1_c1",
-    "text": "products and similar services, each one is managed separately to better align with the location of the Company’s customers and\ndistribution partners and the unique market dynamics of each geographic region.\nThe CODM uses segment net sales and operating income information to make certain decisions, such as product and service pricing,\nand to decide how to allocate resources related to sales activities and marketing investments. Net sales for geographic segments are\ngenerally based on the location of customers and sales through the Company's retail stores located in those geographic locations.\nOperating income for each segment consists of net sales to third parties, related cost of sales, and operating expenses directly\nattributable to the segment. The information provided to the CODM for purposes of making decisions and assessing segment\nperformance excludes asset information.\nThe following tables show information by reportable segment for 2025, 2024 and 2023 (in millions):\n2025\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 178,353 $ 111,032 $ 64,377 $ 28,703 $ 33,696 $ | — $ 416,161\nCost of sales | (95,699) | (58,617) | (35,141) | (13,779) | (17,724) | — (220,960)\nResearch and development | _— | _— | _— | _— | _— | (34,550) | (34,550)\nSelling and marketing | (10,174) | (4,676) | (2,319) | (969) | (1,386) | _— | (19,524)\nGeneral and administrative | _ | _ | _ | _— | _— | (8,077) | (8,077)\nOperating income/(loss) | $ 72,480 $ 47,739 $ 26,917 $ 13,955 $ 14,586 $ (42,627) $ 133,050\n2024\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 167,045 $ 101,328 $ 66,952 $ 25,052 $ 30658 $ — $ 391,035.\nCost of sales | (89,587) | (55,197) | (37,519) | (11,744) | (16,305) | — (210,352)\nResearch and development | _— | — | _— | _— | _— | (31,370) | (31,370)\nSelling and marketing | (9,802) | (4,341) | (2,351) | (854) | (1,291) | — | (18,639)\nGeneral and administrative | _— | _— | _— | _ | _— | (7,458) | (7,458)\nOperating income/(loss) | $ 67,656 $ 41,790 $ 27,082 $ 12,454 $§$ 13,062 $ (38,828) $ 123,216\n2023\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 162,560 $ 94294 $ 72559 $ 24257 $ 29615 $ | £— $ 383,285.\nCost of sales | (92,394) | (54,101) | (39,787) | (11,542) | (16,313) | — (214,137)\nResearch and development | _— | _— | _— | — | — | (29,915) | (29,915)\nSelling and marketing | (9,658) | (4,095) | (2,444) | (827) | (1,236) | — | (18,260)\nGeneral and administrative | _— | _— | _— | _— | _— | (6,672) | (6,672)\nOperating income/(loss) | $ 60,508 $ 36,098 $ 30,328 $ 11,888 $ 12,066 $ (36,587) $ 114,301",
+    "text": "products and similar services, each one is managed separately to better align with the location of the Company’s customers and\ndistribution partners and the unique market dynamics of each geographic region.\nThe CODM uses segment net sales and operating income information to make certain decisions, such as product and service pricing,\nand to decide how to allocate resources related to sales activities and marketing investments. Net sales for geographic segments are\ngenerally based on the location of customers and sales through the Company's retail stores located in those geographic locations.\nOperating income for each segment consists of net sales to third parties, related cost of sales, and operating expenses directly\nattributable to the segment. The information provided to the CODM for purposes of making decisions and assessing segment\nperformance excludes asset information.\nThe following tables show information by reportable segment for 2025, 2024 and 2023 (in millions):\n2025\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 178,353 $ 111,032 $ 64,377 $ 28,703 $ 33,696 $ | — $ 416,161\nCost of sales | (95,699) | (58,617) | (35,141) | (13,779) | (17,724) | _— (220,960)\nResearch and development | _— | —_ | _— | —_ | —_ | (34,550) | (34,550)\nSelling and marketing | (10,174) | (4,676) | (2,319) | (969) | (1,386) | _— | (19,524)\nGeneral and administrative | _ | _ | _ | _ | _ | (8,077) | (8,077)\nOperating income/(loss) | $ 72,480 $ 47,739 $ 26,917 $ 13,955 $ 14,586 $ (42,627) $ 133,050\n2024\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 167,045 $ 101,328 $ 66,952 $ 25,052 $ 30658 $ | — $ 391,035.\nCost of sales | (89,587) | (55,197) | (37,519) | (11,744) | (16,305) | _— (210,352)\nResearch and development | _— | _— | _— | —_ | —_ | (31,370) | (31,370)\nSelling and marketing | (9,802) | (4,341) | (2,351) | (854) | (1,291) | — | (18,639)\nGeneral and administrative | _— | — | _— | — | — | (7,458) | (7,458)\nOperating income/(loss) | $ 67,656 $ 41,790 $ 27,082 $ 12,454 $ 13,062 $ (38,828) $ 123,216\n2023\nGreater | Rest of\nAmericas Europe | China | Japan Asia Pacific Corporate | Total\nNet sales | $ 162,560 $ 94294 $ 72559 $ 24257 $ 29615 $ | £— $ 383,285.\nCost of sales | (92,394) | (54,101) | (39,787) | (11,542) | (16,313) | _— (214,137)\nResearch and development | — | _— | _— | _— | — | (29,915) | (29,915)\nSelling and marketing | (9,658) | (4,095) | (2,444) | (827) | (1,236) | _— | (18,260)\nGeneral and administrative | _ | — | _— | — | — | (6,672) | (6,672)\nOperating income/(loss) | $ 60,508 $ 36,098 $ 30,328 $ 11,888 $ 12,066 $ (36,587) $ 114,301",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 50,
+      "pdf_page": 50,
+      "page": 47,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p50_t1",
@@ -2294,7 +2482,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 51,
+      "pdf_page": 51,
+      "page": 48,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2302,11 +2491,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p51_t1_c1",
-    "text": "The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and September 28, 2024\nfor countries that individually accounted for 10% or more of the respective totals, as well as aggregate amounts for the remaining\ncountries (in millions):\n2025 | 2024 | 2023\nNet sales:\nUS. | $ | 151,790 $ | 142,196 §$ | 138,573\nChina“ | 64,377 | 66,952 | 72,559\nOther countries | 199,994 | 181,887 | 172,153\nTotal net sales | $ | 416,161 $ | 391,035 $§$ | 383,285\n2025 | 2024\nLong-lived assets:\nU.S. | $ | 40,274 §$ | 35,664\nChina | 3,617 | 4,797\nOther countries | 5,943 | 5,219\nTotal long-lived assets | $ | 49,834 $ | 45,680",
+    "text": "The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and September 28, 2024\nfor countries that individually accounted for 10% or more of the respective totals, as well as aggregate amounts for the remaining\ncountries (in millions):\n2025 | 2024 | 2023\nNet sales:\nUS. | $ | 151,790 §$ | 142,196 $ | 138,573\nChina “ | 64,377 | 66,952 | 72,559\nOther countries | 199,994 | 181,887 | 172,153\nTotal net sales | $ | 416,161 $ | 391,035 $ | 383,285\n2025 | 2024\nLong-lived assets:\nU.S. | $ | 40,274 $ | 35,664\nChina | 3,617 | 4,797\nOther countries | 5,943 | 5,219\nTotal long-lived assets | $ | 49,834 $ | 45,680",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 51,
+      "pdf_page": 51,
+      "page": 48,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p51_t1",
@@ -2319,7 +2509,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 52,
+      "pdf_page": 52,
+      "page": 49,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -2331,7 +2522,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 52,
+      "pdf_page": 52,
+      "page": 49,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2343,7 +2535,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 52,
+      "pdf_page": 52,
+      "page": 49,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2355,7 +2548,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 52,
+      "pdf_page": 52,
+      "page": 49,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2367,7 +2561,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 52,
+      "pdf_page": 52,
+      "page": 49,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2379,7 +2574,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 53,
+      "pdf_page": 53,
+      "page": 50,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2391,7 +2587,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 53,
+      "pdf_page": 53,
+      "page": 50,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2403,7 +2600,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 54,
+      "pdf_page": 54,
+      "page": 51,
       "section": "financial_statements",
       "type": "text",
       "extraction_method": "ocr"
@@ -2411,11 +2609,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p54_c2",
-    "text": "September 27, 2025, and the related notes and our report dated October 31, 2025 expressed an unqualified opinion thereon.\nBasis for Opinion\nThe Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of\nthe effectiveness of internal control over financial reporting included in the accompanying Management's Annual Report on Internal\nControl over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting\nbased on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the\nCompany in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange\nCommission and the PCAOB.\nWe conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to\nobtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.",
+    "text": "September 27, 2025, and the related notes and our report dated October 31, 2025 expressed an unqualified opinion thereon.\nBasis for Opinion\nThe Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of\nthe effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal\nControl over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting\nbased on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the\nCompany in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange\nCommission and the PCAOB.\nWe conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to\nobtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 54,
+      "pdf_page": 54,
+      "page": 51,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2427,7 +2626,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 54,
+      "pdf_page": 54,
+      "page": 51,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2439,7 +2639,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 54,
+      "pdf_page": 54,
+      "page": 51,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2451,7 +2652,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 55,
+      "pdf_page": 55,
+      "page": 52,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2459,11 +2661,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p55_c2",
-    "text": "Inherent Limitations over Internal Controls\nThe Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial\nreporting and the preparation of financial statements for external purposes in accordance with GAAP. The Company’s internal control\nover financial reporting includes those policies and procedures that:\n(i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and\ndispositions of the Company’s assets;\n(ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements\nin accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with\nauthorizations of the Company’s management and directors; and\n(iii) | provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of\nthe Company’s assets that could have a material effect on the financial statements.\nManagement, including the Company’s Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal",
+    "text": "Inherent Limitations over Internal Controls\nThe Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial\nreporting and the preparation of financial statements for external purposes in accordance with GAAP. The Company’s internal control\nover financial reporting includes those policies and procedures that:\n(i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and\ndispositions of the Company’s assets;\n(ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements\nin accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with\nauthorizations of the Company’s management and directors; and\n(iii) | provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of\nthe Company's assets that could have a material effect on the financial statements.\nManagement, including the Company’s Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 55,
+      "pdf_page": 55,
+      "page": 52,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2475,7 +2678,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 55,
+      "pdf_page": 55,
+      "page": 52,
       "section": "business",
       "type": "text",
       "extraction_method": "ocr"
@@ -2483,11 +2687,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p55_c4",
-    "text": "with the policies or procedures may deteriorate.\nManagement’s Annual Report on Internal Control over Financial Reporting\nThe Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting (as\ndefined in Rule 13a-15(f) under the Exchange Act). Management conducted an assessment of the effectiveness of the Company’s\ninternal control over financial reporting based on the criteria set forth in Internal Control — Integrated Framework issued by the\nCommittee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the Company’s assessment,\nmanagement has concluded that its internal control over financial reporting was effective as of September 27, 2025 to provide\nreasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP.\nThe Company’s independent registered public accounting firm, Ernst & Young LLP, has issued an audit report on the Company’s internal\ncontrol over financial reporting, which appears in Part II, Item 8 of this Form 10-K.\nChanges in Internal Control over Financial Reporting",
+    "text": "with the policies or procedures may deteriorate.\nManagement’s Annual Report on Internal Control over Financial Reporting\nThe Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting (as\ndefined in Rule 13a-15(f) under the Exchange Act). Management conducted an assessment of the effectiveness of the Company’s\ninternal control over financial reporting based on the criteria set forth in Internal Control — Integrated Framework issued by the\nCommittee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the Company’s assessment,\nmanagement has concluded that its internal control over financial reporting was effective as of September 27, 2025 to provide\nreasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP.\nThe Company’s independent registered public accounting firm, Ernst & Young LLP, has issued an audit report on the Company’s internal\ncontrol over financial reporting, which appears in Part Il, Item 8 of this Form 10-K.\nChanges in Internal Control over Financial Reporting",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 55,
+      "pdf_page": 55,
+      "page": 52,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2495,11 +2700,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p55_c5",
-    "text": "control over financial reporting, which appears in Part II, Item 8 of this Form 10-K.\nChanges in Internal Control over Financial Reporting\nThere were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2025, which were identified\nin connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have\nmaterially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.",
+    "text": "control over financial reporting, which appears in Part Il, Item 8 of this Form 10-K.\nChanges in Internal Control over Financial Reporting\nThere were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2025, which were identified\nin connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have\nmaterially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 55,
+      "pdf_page": 55,
+      "page": 52,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2507,11 +2713,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p56_c1",
-    "text": "Item 9B. Other Information\nOn October 31, 2025, the Company announced that Chris Kondo, Senior Director of Corporate Accounting and Principal Accounting\nOfficer, will transition from his role on January 1, 2026. Following the transition, Mr. Kondo will continue to work on other projects. Ben\nBorders, the Company's Director of Technical Accounting, will become Senior Director of Corporate Accounting and assume the role of\nPrincipal Accounting Officer. Mr. Borders will report to Kevan Parekh, the Company’s Chief Financial Officer.\nInsider Trading Arrangements\nNone.\nItem 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections\nNot applicable.\nPART Ill\nItem 10. Directors, Executive Officers and Corporate Governance\nThe information required by this Item will be included in the Company’s definitive proxy statement to be filed with the SEC within 120\ndays after September 27, 2025, in connection with the solicitation of proxies for the Company’s 2026 annual meeting of shareholders\n(“2026 Proxy Statement’), and is incorporated herein by reference.\nItem 11. Executive Compensation",
+    "text": "Item 9B. Other Information\nOn October 31, 2025, the Company announced that Chris Kondo, Senior Director of Corporate Accounting and Principal Accounting\nOfficer, will transition from his role on January 1, 2026. Following the transition, Mr. Kondo will continue to work on other projects. Ben\nBorders, the Company's Director of Technical Accounting, will become Senior Director of Corporate Accounting and assume the role of\nPrincipal Accounting Officer. Mr. Borders will report to Kevan Parekh, the Company’s Chief Financial Officer.\nInsider Trading Arrangements\nNone.\nItem 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections\nNot applicable.\nPART Ill\nItem 10. Directors, Executive Officers and Corporate Governance\nThe information required by this Item will be included in the Company’s definitive proxy statement to be filed with the SEC within 120\ndays after September 27, 2025, in connection with the solicitation of proxies for the Company’s 2026 annual meeting of shareholders\n(“2026 Proxy Statement”), and is incorporated herein by reference.\nItem 11. Executive Compensation",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 56,
+      "pdf_page": 56,
+      "page": 53,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2519,11 +2726,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p56_c2",
-    "text": "(“2026 Proxy Statement’), and is incorporated herein by reference.\nItem 11. Executive Compensation\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 13. Certain Relationships and Related Transactions, and Director Independence\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 14. Principal Accountant Fees and Services\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.",
+    "text": "(“2026 Proxy Statement”), and is incorporated herein by reference.\nItem 11. Executive Compensation\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 13. Certain Relationships and Related Transactions, and Director Independence\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.\nItem 14. Principal Accountant Fees and Services\nThe information required by this Item will be included in the 2026 Proxy Statement, and is incorporated herein by reference.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 56,
+      "pdf_page": 56,
+      "page": 53,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2531,11 +2739,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p57_t1_c1",
-    "text": "PART IV\nItem 15. Exhibit and Financial Statement Schedules\n(a) Documents filed as part of this report\n(1) All financial statements\nIndex to Consolidated Financial Statements | Page\nConsolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and September\n30,2023 | 29\nConsolidated Statements of Comprehensive Income for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 30\nConsolidated Balance Sheets as of September 27, 2025 and September 28, 2024 | 31\nConsolidated Statements of Shareholders’ Equity for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 32\nConsolidated Statements of Cash Flows for the years ended September 27,2025, September 28, 2024 and September\n30, 2023 | 33\nNotes to Consolidated Financial Statements | 34\nReports of Independent Registered Public Accounting Firm* | 49\n* Ernst & Young LLP, PCAOB Firm ID No. 00042.",
+    "text": "PART IV\nItem 15. Exhibit and Financial Statement Schedules\n(a) Documents filed as part of this report\n(1) All financial statements\nIndex to Consolidated Financial Statements | Page\nConsolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and September\n30, 2023 | 29\nConsolidated Statements of Comprehensive Income for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 30\nConsolidated Balance Sheets as of September 27, 2025 and September 28, 2024 | 31\nConsolidated Statements of Shareholders’ Equity for the years ended September 27, 2025, September 28, 2024 and\nSeptember 30, 2023 | 32\nConsolidated Statements of Cash Flows for the years ended September 27, 2025, September 28, 2024 and September\n30, 2023 | 33\nNotes to Consolidated Financial Statements | 34\nReports of Independent Registered Public Accounting Firm* | 49\n* Ernst & Young LLP, PCAOB Firm ID No. 00042.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 57,
+      "pdf_page": 57,
+      "page": 54,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p57_t1",
@@ -2544,11 +2753,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p58_t1_c1",
-    "text": "Incorporated by Reference\nFiling Date/\nExhibit | Period End\nNumber | Exhibit Description | Form Exhibit Date\n4.9 | Officer’s Certificate of the Registrant, dated as of September 17, 2015, including 8-K | 4.1 | 9/17/15\nforms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes\ndue 2027.\n4.10 | Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms 8-K | 4.1 | 2/23/16\nof global notes representing_the Floating Rate Notes due 2019, Floating Rate\nNotes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes\ndue 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due\n2036 and 4.650% Notes due 2046.\n4.11 | Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 8-K | 4.1 | 3/24/16\n2016.\n4.12 | Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of 8-K | 4.1 | 8/4/16\nglobal notes representing the Floating Rate Notes due 2019, 1.100% Notes due\n2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due\n2046.\n4.13 | Officer's Certificate of the Registrant, dated as of February 9, 2017, including forms 8-K | 4.1 | 2/9/17\nof global notes representing the Floating Rate Notes due 2019, Floating Rate\nNotes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900%\nNotes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes\ndue 2027 and 4.250% Notes due 2047.\n4.14 | Officer’s Certificate of the Registrant, dated as of May 11,2017, including forms of 8-K | 4.1 | 5/11/17\nglobal notes representing the Floating Rate Notes due 2020, Floating Rate Notes\ndue 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due\n2024 and 3.200% Notes due 2027.\n4.15 | Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of 8-K | 4.1 | 5/24/17\nglobal notes representing_the 0.875% Notes due 2025 and 1.375% Notes due\n2029.\n4.16 | Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of 8-K | 41 | 6/20/17\nglobal note representing the 3.000% Notes due 2027.\n4.17 | Officer’s Certificate of the Registrant, dated as of September 12, 2017, including 8-K | 4.1 | 9/12/17\nforms of global notes representing_the 1.500% Notes due 2019, 2.100% Notes\ndue 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.\n4.18 | Officer’s Certificate _of the Registrant, dated as of November 13, 2017, including 8-K | 4.1 | 11/13/17\nforms of global notes representing the 1.800% Notes due 2019, 2.000% Notes\ndue 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due\n2027 and 3.750% Notes due 2047.\n4.19 | Indenture, dated as of November 5, 2018, between the Registrant and The Bank of S-3 | 4.1 | 11/5/18\nNew York Mellon Trust Company, N.A., as Trustee.\n4.20 | Officer's Certificate of the Registrant, dated as of September 11, 2019, including 8-K | 41 | 9/11/19\nforms of global notes representing the 1.700% Notes due 2022, 1.800% Notes\ndue 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes\ndue 2049.\n4.21 | Officer’s Certificate of the Registrant, dated_as of November 15, 2019, including 8-K | 4.1 | 11/15/19\nforms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes\ndue 2031.\n4.22 | Officer’s Certificate of the Registrant, dated as of May 11, 2020, including forms of 8-K | 4.1 | 5/11/20\nglobal notes representing _the 0.750% Notes due 2023, 1.125% Notes due 2025,\n1.650% Notes due 2030 and 2.650% Notes due 2050.",
+    "text": "Incorporated by Reference\nFiling Date/\nExhibit | Period End\nNumber | Exhibit Description | Form Exhibit Date\n4.9 | Officer’s Certificate _of the Registrant, dated as of September 17, 2015, including 8-K | 4.1 | 9/17/15\nforms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes\ndue 2027.\n4.10 | Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms 8-K | 4.1 | 2/23/16\nof global notes representing_the Floating Rate Notes due 2019, Floating_Rate\nNotes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes\ndue 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due\n2036 and 4.650% Notes due 2046.\n4.11 | Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 8-K | 4.1 | 3/24/16\n2016.\n4.12 | Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of 8-K | 4.1 | 8/4/16\nglobal notes representing the Floating Rate Notes due 2019, 1.100% Notes due\n2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due\n2046.\n4.13 | Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms 8-K | 4.1 | 2/9/17\nof global notes representing the Floating Rate Notes due 2019, Floating Rate\nNotes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900%\nNotes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes\ndue 2027 and 4.250% Notes due 2047.\n4.14 | Officer’s Certificate of the Registrant, dated as of May 11,2017, including forms of 8-K | 4.1 | 5/11/17\nglobal notes representing the Floating Rate Notes due 2020, Floating Rate Notes\ndue 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due\n2024 and 3.200% Notes due 2027.\n4.15 | Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of 8-K | 4.1 | 5/24/17\nglobal notes representing_the 0.875% Notes due 2025 and 1.375% Notes due\n2029.\n4.16 | Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of 8-K | 41 | 6/20/17\nglobal note representing the 3.000% Notes due 2027.\n4.17 | Officer's Certificate of the Registrant, dated as of September 12, 2017, including 8-K | 4.1 | 9/12/17\nforms of global notes representing_the 1.500% Notes due 2019, 2.100% Notes\ndue 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.\n4.18 | Officer’s Certificate of the Registrant, dated as of November 13, 2017, including 8-K | 4.1 | 11/13/17\nforms of global notes representing_the 1.800% Notes due 2019, 2.000% Notes\ndue 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due\n2027 and 3.750% Notes due 2047.\n4.19 | Indenture, dated as of November 5, 2018, between the Registrant and The Bank of S-3 | 4.1 | 11/5/18\nNew York Mellon Trust Company, N.A., as Trustee.\n4.20 | Officer’s Certificate _of the Registrant, dated as of September 11, 2019, including 8-K | 4.1 | 9/11/19\nforms of global notes representing the 1.700% Notes due 2022, 1.800% Notes\ndue 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes\ndue 2049.\n4.21 | Officer’s Certificate of the Registrant, dated_as of November 15, 2019, including 8-K | 41 | 11/15/19\nforms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes\ndue 2031.\n4.22 | Officer’s Certificate of the Registrant, dated as of May 11,2020, including forms of 8-K | 4.1 | 5/11/20\nglobal notes representing_the 0.750% Notes due 2023, 1.125% Notes due 2025,\n1.650% Notes due 2030 and 2.650% Notes due 2050.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 58,
+      "pdf_page": 58,
+      "page": 55,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p58_t1",
@@ -2557,11 +2767,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p58_t1_c2",
-    "text": "4.23 | Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of 8-K | 4.1 | 8/20/20\nglobal notes representing_the 0.550% Notes due 2025, 1.25% Notes due 2030,\n2.400% Notes due 2050 and 2.550% Notes due 2060.\n4.24 | Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms 8-K | 4.1 | 2/8/21\nof global notes representing the 0.700% Notes due 2026, 1.200% Notes due\n2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051\nand 2.800% Notes due 2061.\n4.25 | Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of 8-K | 41 | 8/5/21\nglobal notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031,\n2.700% Notes due 2051 and 2.850% Notes due 2061.",
+    "text": "4.23 | Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of 8-K | 4.1 | 8/20/20\nglobal notes representing_the 0.550% Notes due 2025, 1.25% Notes due 2030,\n2.400% Notes due 2050 and 2.550% Notes due 2060.\n4.24 | Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms 8-K | 4.1 | 2/8/21\nof global notes representing the 0.700% Notes due 2026, 1.200% Notes due\n2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051\nand 2.800% Notes due 2061.\n4.25 | Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of 8-K | 41 | 8/5/21\nglobal notes representing_the 1.400% Notes due 2028, 1.700% Notes due 2031,\n2.700% Notes due 2051 and 2.850% Notes due 2061.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 58,
+      "pdf_page": 58,
+      "page": 55,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p58_t1",
@@ -2570,11 +2781,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p59_c1",
-    "text": "10.11* Form of CEO Performance Award Agreement under 2022 Employee Stock Plan 10-Q 10.2 12/31/22\neffective as of September 25, 2022.\n10.12* Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan 10-K 10.19 9/28/24\neffective as of September 29, 2024.\n10.13* Form of Performance Award Agreement under 2022 Employee Stock Plan effective 10-K 10.20 9/28/24\nas of September 29, 2024.\n10.14* Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock 10-K 10.21 9/28/24\nPlan effective as of September 29, 2024.\n10.15* Form of CEO Performance Award Agreement_under 2022 Employee Stock Plan 10-K 10.22 9/28/24\neffective as of September 29, 2024.\n19.1 Insider Trading Policy. 10-K 19.1 9/28/24\n21.1\" Subsidiaries of the Registrant.\n23.1** Consent of Independent Registered Public Accounting Firm.\n24.1** Power of Attorney (included on the Signatures page of this Annual Report on Form\n10-K).\n31.1** Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.\n31.2** Rule 13a-14(a)/ 15d-14(a) Certification of Chief Financial Officer.\n32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.",
+    "text": "10.11* Form of CEO Performance Award Agreement under 2022 Employee Stock Plan 10-Q 10.2 12/31/22\neffective as of September 25, 2022.\n10.12* Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan 10-K 10.19 9/28/24\neffective as of September 29, 2024.\n10.13* Form of Performance Award Agreement under 2022 Employee Stock Plan effective 10-K 10.20 9/28/24\nas of September 29, 2024.\n10.14* Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock 10-K 10.21 9/28/24\nPlan effective as of September 29, 2024.\n10.15* Form of CEO Performance Award Agreement under 2022 Employee Stock Plan 10-K 10.22 9/28/24\neffective as of September 29, 2024.\n19.1 Insider Trading Policy. 10-K 19.1 9/28/24\n21.1** Subsidiaries of the Registrant.\n23.1** Consent of Independent Registered Public Accounting Firm.\n24.1** Power of Attorney (included on the Signatures page of this Annual Report on Form\n10-K).\n31.1** Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.\n31.2** Rule 13a-14(a)_/ 15d-14(a) Certification of Chief Financial Officer.\n32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 59,
+      "pdf_page": 59,
+      "page": 56,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2582,11 +2794,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p59_c2",
-    "text": "31.2** Rule 13a-14(a)/ 15d-14(a) Certification of Chief Financial Officer.\n32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.\n97.1* Rule 10D-1 Recovery Policy 10-K 97.1 9/28/24",
+    "text": "31.2** Rule 13a-14(a)_/ 15d-14(a) Certification of Chief Financial Officer.\n32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.\n97.1* Rule 10D-1 Recovery Policy 10-K 97.1 9/28/24",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 59,
+      "pdf_page": 59,
+      "page": 56,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2598,7 +2811,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 59,
+      "pdf_page": 59,
+      "page": 56,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p59_t1",
@@ -2611,7 +2825,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 60,
+      "pdf_page": 60,
+      "page": 57,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2623,7 +2838,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 60,
+      "pdf_page": 60,
+      "page": 57,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p60_t1",
@@ -2632,11 +2848,12 @@
   },
   {
     "chunk_id": "apple_2025_10k_p61_c1",
-    "text": "SIGNATURES\nPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to\nbe signed on its behalf by the undersigned, thereunto duly authorized.\nDate: October 31, 2025 Apple Inc.\nBy: /s/ Kevan Parekh\nKevan Parekh\nSenior Vice President,\nChief Financial Officer\nattorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.\nbehalf of the Registrant and in the capacities and on the dates indicated:\n/s/ Timothy D. Cook (Principal Executive Officer)\nTIMOTHY D. COOK\n/s/ Kevan Parekh (Principal Financial Officer)\nKEVAN PAREKH\n/s/ Chris Kondo (Principal Accounting Officer)\nCHRIS KONDO\nOctober 31, 2025\n/s/ Wanda Austin Director\nWANDA AUSTIN\nOctober 31, 2025\n/s/ Alex Gorsky Director\nALEX GORSKY\nOctober 31, 2025\n/s/ Andrea Jung Director\nANDREA JUNG\nOctober 31, 2025\n/s/ Arthur D. Levinson . Director . and Chair . of the Board\nARTHUR D. LEVINSON\nOctober 31, 2025\n/s/ Monica Lozano Director\nMONICA LOZANO\nOctober 31, 2025\n/s/ Ronald D. Sugar Director\nRONALD D. SUGAR\nOctober 31, 2025\n/s/ Susan L. Wagner Director\nSUSAN L. WAGNER",
+    "text": "SIGNATURES\nPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to\nbe signed on its behalf by the undersigned, thereunto duly authorized.\nDate: October 31, 2025 Apple Inc.\nBy: /s/ Kevan Parekh\nKevan Parekh\nSenior Vice President,\nChief Financial Officer\nattorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.\nbehalf of the Registrant and in the capacities and on the dates indicated:\n/s/ Timothy D. Cook (Principal Executive Officer)\nTIMOTHY D. COOK\n/s/ Kevan Parekh (Principal Financial Officer)\nKEVAN PAREKH\n/s/ Chris Kondo (Principal Accounting Officer)\nCHRIS KONDO\nOctober 31, 2025\n/s/ Wanda Austin Director\nWANDA AUSTIN\nOctober 31, 2025\n/s/ Alex Gorsky Director\nALEX GORSKY\nOctober 31, 2025\n/s/ Andrea Jung Director\nANDREA JUNG\nOctober 31, 2025\n/s/ Arthur D. Levinson . Director . and Chair ; of the Board\nARTHUR D. LEVINSON\nOctober 31, 2025\n/s/ Monica Lozano Director\nMONICA LOZANO\nOctober 31, 2025\n/s/ Ronald D. Sugar Director\nRONALD D. SUGAR\nOctober 31, 2025\n/s/ Susan L. Wagner Director\nSUSAN L. WAGNER",
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 61,
+      "pdf_page": 61,
+      "page": 58,
       "section": null,
       "type": "text",
       "extraction_method": "ocr"
@@ -2648,7 +2865,8 @@
     "metadata": {
       "company": "Apple Inc.",
       "fiscal_year": 2025,
-      "page": 61,
+      "pdf_page": 61,
+      "page": 58,
       "section": "financial_statements",
       "type": "table",
       "table_id": "apple_2025_10k_p61_t1",

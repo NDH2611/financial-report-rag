@@ -1,0 +1,468 @@
+[
+  {
+    "id": "Q01",
+    "category": "fact_retrieval",
+    "configuration": "rag",
+    "answer": "Apple's total net sales for fiscal year 2025 was **$416,161 million**.",
+    "calculation": null,
+    "evidence": [],
+    "model": "gemini-3.5-flash",
+    "latency": 6.548613199964166,
+    "input_tokens": 2118,
+    "output_tokens": 26,
+    "retrieved_chunks": [
+      {
+        "chunk_id": "apple_2025_10k_p24_c2",
+        "text": "Second Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« — Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n« — AirPods Pro 3\nFiscal Period\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 24,
+          "page": 21,
+          "section": null,
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 21,
+        "pdf_page": 24,
+        "section": null,
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.032018442622950824
+      },
+      {
+        "chunk_id": "apple_2025_10k_p39_t1_c1",
+        "text": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024\nand 2023 (in millions):\n2025 | 2024 | 2023\niPhone | $ | 209,586 §$ | 201,183 $ | 200,583\nMac | 33,708 | 29,984 | 29,357\niPad | 28,023 | 26,694 | 28,300\nWearables, Home and Accessories | 35,686 | 37,005 | 39,845\nServices () | 109,158 | 96,169 | 85,200\nTotal net sales | $ | 416,161 $ | 391,035 $ | 383,285\nPortion of total net sales that was included in deferred revenue as of the\nbeginning of the period | $ | 8,229 $ | 7,728 $ | 8,169",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 39,
+          "page": 36,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p39_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 36,
+        "pdf_page": 39,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.03128054740957967
+      },
+      {
+        "chunk_id": "apple_2025_10k_p32_t1_c1",
+        "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 202A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 32,
+          "page": 29,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p32_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 29,
+        "pdf_page": 32,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.03125763125763126
+      },
+      {
+        "chunk_id": "apple_2025_10k_p37_c1",
+        "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 37,
+          "page": 34,
+          "section": "notes",
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 34,
+        "pdf_page": 37,
+        "section": "notes",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.029709507042253523
+      },
+      {
+        "chunk_id": "apple_2025_10k_p51_t1_c1",
+        "text": "The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and September 28, 2024\nfor countries that individually accounted for 10% or more of the respective totals, as well as aggregate amounts for the remaining\ncountries (in millions):\n2025 | 2024 | 2023\nNet sales:\nUS. | $ | 151,790 §$ | 142,196 $ | 138,573\nChina “ | 64,377 | 66,952 | 72,559\nOther countries | 199,994 | 181,887 | 172,153\nTotal net sales | $ | 416,161 $ | 391,035 $ | 383,285\n2025 | 2024\nLong-lived assets:\nU.S. | $ | 40,274 $ | 35,664\nChina | 3,617 | 4,797\nOther countries | 5,943 | 5,219\nTotal long-lived assets | $ | 49,834 $ | 45,680",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 51,
+          "page": 48,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p51_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 48,
+        "pdf_page": 51,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.029631255487269532
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "category": "fact_retrieval",
+    "configuration": "rag",
+    "answer": "Based on the provided context, Apple's net income for fiscal year 2025 was **$112,010 million** (or $112.01 billion).",
+    "calculation": null,
+    "evidence": [],
+    "model": "gemini-3.5-flash",
+    "latency": 5.029712000046857,
+    "input_tokens": 2367,
+    "output_tokens": 42,
+    "retrieved_chunks": [
+      {
+        "chunk_id": "apple_2025_10k_p24_c2",
+        "text": "Second Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« — Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n« — AirPods Pro 3\nFiscal Period\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 24,
+          "page": 21,
+          "section": null,
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 21,
+        "pdf_page": 24,
+        "section": null,
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.032266458495966696
+      },
+      {
+        "chunk_id": "apple_2025_10k_p33_t1_c1",
+        "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME\n(In millions)\nYears ended\nSeptember 27, September 28, September 30,\n2025 | 2024 | 2023\nNet income | $ | 112,010 §$ | 93,736 $ | 96,995\nOther comprehensive income/(loss):\nChange in foreign currency translation, net of tax | (267) | 395 | (765)\nChange in unrealized gains/losses on derivative instruments, net of tax:\nChange in fair value of derivative instruments | 849 | (832) | 323\nAdjustment for net (gains)/losses realized and included in net income | (212) | (1,337) | (1,717)\nTotal change in unrealized gains/losses on derivative instruments | 637 | (2,169) | (1,394)\nChange in unrealized gains/losses on marketable debt securities, net of tax:\nChange in fair value of marketable debt securities | 817 | 5,850 | 1,563\nAdjustment for net (gains)/losses realized and included in net income | 414 | 204 | 253\nTotal change in unrealized gains/losses on marketable debt\nsecurities | 1,231 | 6,054 | 1,816\nTotal other comprehensive income/(loss) | 1,601 | 4,280 | (343)\nTotal comprehensive income | $ | 113,611 $ | 98,016 $ | 96,652",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 33,
+          "page": 30,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p33_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 30,
+        "pdf_page": 33,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.0315136476426799
+      },
+      {
+        "chunk_id": "apple_2025_10k_p32_t1_c1",
+        "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 202A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 32,
+          "page": 29,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p32_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 29,
+        "pdf_page": 32,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.03131881575727918
+      },
+      {
+        "chunk_id": "apple_2025_10k_p37_c1",
+        "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 37,
+          "page": 34,
+          "section": "notes",
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 34,
+        "pdf_page": 37,
+        "section": "notes",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.03021353930031804
+      },
+      {
+        "chunk_id": "apple_2025_10k_p39_t2_c1",
+        "text": "The Company's proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note\n13, “Segment Information and Geographic Data” for 2025, 2024 and 2023, except in Greater China, where iPhone revenue represented\na moderately higher proportion of net sales.\nAs of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion,\nrespectively. As of September 27, 2025, the Company expects 66% of total deferred revenue to be realized in less than a year, 23%\nwithin one-to-two years, 9% within two-to-three years and 2% in greater than three years.\nNote 3 — Earnings Per Share\nThe following table shows the computation of basic and diluted earnings per share for 2025, 2024 and 2023 (net income in millions and\nshares in thousands):\n2025 | 2024 | 2023\nNumerator:\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nDenominator:\nWeighted-average basic shares outstanding | 14,948,500 | 15,343,783 | 15,744,231\nEffect of dilutive share-based awards | 56,197 | 64,312 | 68,316\nWeighted-average diluted shares | 15,004,697 | 15,408,095 | 15,812,547\nBasic earnings per share | $ | 749 §$ | 6.11 $ | 6.16\nDiluted earnings per share | $ | 7A6 $ | 6.08 §$ | 6.13",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 39,
+          "page": 36,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p39_t2",
+          "extraction_method": "ocr"
+        },
+        "page": 36,
+        "pdf_page": 39,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.028991596638655463
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "category": "fact_retrieval",
+    "configuration": "rag",
+    "answer": "Based on the provided context, Apple's diluted earnings per share (EPS) for fiscal year 2025 was **$7.46** (rendered as `$746` / `$7A6` in the text table due to OCR artifacts).\n\n**Calculation:**\n* **Net income (2025):** $112,010 million\n* **Weighted-average diluted shares (2025):** 15,004,697 thousand (or 15,004.697 million)\n\n$$\\text{Diluted EPS} = \\frac{\\$112,010\\text{ million}}{15,004.697\\text{ million shares}} \\approx \\$7.46 \\text{ per share}$$",
+    "calculation": null,
+    "evidence": [],
+    "model": "gemini-3.5-flash",
+    "latency": 8.429353400017135,
+    "input_tokens": 2343,
+    "output_tokens": 175,
+    "retrieved_chunks": [
+      {
+        "chunk_id": "apple_2025_10k_p32_t1_c1",
+        "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 202A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 32,
+          "page": 29,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p32_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 29,
+        "pdf_page": 32,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "apple_2025_10k_p24_c2",
+        "text": "Second Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« — Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n« — AirPods Pro 3\nFiscal Period\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 24,
+          "page": 21,
+          "section": null,
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 21,
+        "pdf_page": 24,
+        "section": null,
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.031754032258064516
+      },
+      {
+        "chunk_id": "apple_2025_10k_p48_t2_c1",
+        "text": "The Apple Inc. 2022 Employee Stock Plan (“2022 Plan”) is a shareholder-approved plan that provides for broad-based equity grants to\nemployees, including executive officers, and permits the granting of RSUs, stock grants, performance-based awards, stock options and\nstock appreciation rights. RSUs granted under the 2022 Plan generally vest over four years, based on continued employment, and are\nsettled upon vesting in shares of the Company’s common stock on a one-for-one basis. All RSUs granted under the 2022 Plan have\ndividend equivalent rights, which entitle holders of RSUs to the same dividend value per share as holders of common stock. A maximum\nof approximately 1.3 billion shares were authorized for issuance pursuant to 2022 Plan awards at the time the plan was approved on\nMarch 4, 2022.\nRestricted Stock Units\nAsummary of the Company’s RSU activity and related information for 2025 is as follows:\nNumber of | Weighted-Average\nRSUs | Grant-Date Fair\n(in thousands) | Value Per RSU\nBalance as of September 28, 2024 | 163,326 $ | 158.73\nRSUs granted | 73,466 $ | 226.68\nRSUs vested | (76,845) $ | 159.85\nRSUs forfeited | (8,373) $ | 183.03\nBalance as of September 27, 2025 | 151,574 ¢ | 189.75",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 48,
+          "page": 45,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p48_t2",
+          "extraction_method": "ocr"
+        },
+        "page": 45,
+        "pdf_page": 48,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.030776515151515152
+      },
+      {
+        "chunk_id": "apple_2025_10k_p39_t2_c1",
+        "text": "The Company's proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note\n13, “Segment Information and Geographic Data” for 2025, 2024 and 2023, except in Greater China, where iPhone revenue represented\na moderately higher proportion of net sales.\nAs of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion,\nrespectively. As of September 27, 2025, the Company expects 66% of total deferred revenue to be realized in less than a year, 23%\nwithin one-to-two years, 9% within two-to-three years and 2% in greater than three years.\nNote 3 — Earnings Per Share\nThe following table shows the computation of basic and diluted earnings per share for 2025, 2024 and 2023 (net income in millions and\nshares in thousands):\n2025 | 2024 | 2023\nNumerator:\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nDenominator:\nWeighted-average basic shares outstanding | 14,948,500 | 15,343,783 | 15,744,231\nEffect of dilutive share-based awards | 56,197 | 64,312 | 68,316\nWeighted-average diluted shares | 15,004,697 | 15,408,095 | 15,812,547\nBasic earnings per share | $ | 749 §$ | 6.11 $ | 6.16\nDiluted earnings per share | $ | 7A6 $ | 6.08 §$ | 6.13",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 39,
+          "page": 36,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p39_t2",
+          "extraction_method": "ocr"
+        },
+        "page": 36,
+        "pdf_page": 39,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.030679156908665108
+      },
+      {
+        "chunk_id": "apple_2025_10k_p37_c1",
+        "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 37,
+          "page": 34,
+          "section": "notes",
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 34,
+        "pdf_page": 37,
+        "section": "notes",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.030309988518943745
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "category": "fact_retrieval",
+    "configuration": "rag",
+    "answer": "Based on the provided context (Consolidated Statements of Operations), Apple's research and development (R&D) expense for fiscal year 2025 was **$34,550 million** ($34.55 billion).",
+    "calculation": null,
+    "evidence": [],
+    "model": "gemini-3.5-flash",
+    "latency": 6.470872899983078,
+    "input_tokens": 1994,
+    "output_tokens": 51,
+    "retrieved_chunks": [
+      {
+        "chunk_id": "apple_2025_10k_p24_c2",
+        "text": "Second Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:\n. iPhone 17, iPhone Air, iPhone 17 Pro and iPhone 17 Pro Max\n*« — Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3\n« — AirPods Pro 3\nFiscal Period\nThe Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nquarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53 weeks.\nMacroeconomic Conditions\nMacroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could\nin the future materially impact, the Company’s results of operations and financial condition.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 24,
+          "page": 21,
+          "section": null,
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 21,
+        "pdf_page": 24,
+        "section": null,
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.03200204813108039
+      },
+      {
+        "chunk_id": "apple_2025_10k_p32_t1_c1",
+        "text": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 202A 2023\nNet sales:\nProducts | $ | 307,003 $ | 294,866 $ | 298,085\nServices | 109,158 | 96,169 | 85,200\nTotal net sales | 416,161 | 391,035 | 383,285\nCost of sales:\nProducts | 194,116 | 185,233 | 189,282\nServices | 26,844 | 25,119 | 24,855\nTotal cost of sales | 220,960 | 210,352 | 214,137\nGross margin | 195,201 | 180,683 | 169,148\nOperating expenses:\nResearch and development | 34,550 | 31,370 | 29,915\nSelling, general and administrative | 27,601 | 26,097 | 24,932\nTotal operating expenses | 62,151 | 57,467 | 54,847\nOperating income | 133,050 | 123,216 | 114,301\nOther income/(expense), net | (321) | 269 | (565)\nIncome before provision for income taxes | 132,729 | 123,485 | 113,736\nProvision for income taxes | 20,719 | 29,749 | 16,741\nNet income | $ | 112,010 $ | 93,736 $ | 96,995\nEarnings per share:\nBasic | $ | 749 §$ | 6.11 §$ | 6.16\nDiluted | $ | 746 §$ | 6.08 $ | 6.13\nShares used in computing earnings per share:\nBasic | 14,948,500 | 15,343,783 | 15,744,231\nDiluted | 15,004,697 | 15,408,095 | 15,812,547",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 32,
+          "page": 29,
+          "section": "financial_statements",
+          "type": "table",
+          "table_id": "apple_2025_10k_p32_t1",
+          "extraction_method": "ocr"
+        },
+        "page": 29,
+        "pdf_page": 32,
+        "section": "financial_statements",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "table",
+        "score": 0.031099324975891997
+      },
+      {
+        "chunk_id": "apple_2025_10k_p37_c1",
+        "text": "Apple Inc.\nNotes to Consolidated Financial Statements\nNote 1 —- Summary of Significant Accounting Policies\nBasis of Presentation and Preparation\nThe consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries. The preparation of these\nconsolidated financial statements and accompanying notes in conformity with GAAP requires the use of management estimates. Certain\nprior period amounts in the notes to consolidated financial statements have been reclassified to conform to the current period’s\npresentation.\nThe Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in\nthe first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters, which occurred in the first\nfiscal quarter of 2023. The Company’s fiscal years 2025 and 2024 spanned 52 weeks each, whereas fiscal year 2023 spanned 53\nweeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended\nin September and the associated quarters, months and periods of those fiscal years.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 37,
+          "page": 34,
+          "section": "notes",
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 34,
+        "pdf_page": 37,
+        "section": "notes",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.030536130536130537
+      },
+      {
+        "chunk_id": "apple_2025_10k_p24_c1",
+        "text": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations\nThe following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in\nPart Il, Item 8 of this Form 10-K. This Item generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and\n2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 are not included, and can be found in\n“Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part Il, Item 7 of the Company’s Annual\nReport on Form 10-K for the fiscal year ended September 28, 2024.\nProduct, Service and Software Announcements\nThe Company announces new product, service and software offerings at various times during the year. Significant announcements\nduring fiscal year 2025 included the following:\nFirst Quarter 2025:\n* — MacBook Pro\n* Mac mini\n* iMac\n¢ iPad mini\nSecond Quarter 2025:\n« iPhone 16e\n+ iPad Air\n« iPad\n* MacBook Air\n* Mac Studio\nThird Quarter 2025:\n. iOS 26, macOS Tahoe 26, iPadOS 26, watchOS 26, visionOS 26 and tvOS 26\nFourth Quarter 2025:",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 24,
+          "page": 21,
+          "section": "management_discussion",
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 21,
+        "pdf_page": 24,
+        "section": "management_discussion",
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.029850746268656716
+      },
+      {
+        "chunk_id": "apple_2025_10k_p27_c1",
+        "text": "Products Gross Margin\nProducts gross margin increased during 2025 compared to 2024 primarily due to favorable costs and a different mix of products, partially\noffset by tariff costs.\nProducts gross margin percentage decreased during 2025 compared to 2024 primarily due to a different mix of products and tariff costs,\npartially offset by other favorable costs.\nResearch and Development\nThe growth in R&D expense during 2025 compared to 2024 was primarily driven by increases in headcount-related expenses and\ninfrastructure-related costs.\nSelling, General and Administrative\nThe growth in selling, general and administrative expense during 2025 compared to 2024 was primarily driven by increases in\nheadcount-related expenses and variable selling expenses.",
+        "metadata": {
+          "company": "Apple Inc.",
+          "fiscal_year": 2025,
+          "pdf_page": 27,
+          "page": 24,
+          "section": null,
+          "type": "text",
+          "extraction_method": "ocr"
+        },
+        "page": 24,
+        "pdf_page": 27,
+        "section": null,
+        "company": "Apple Inc.",
+        "fiscal_year": 2025,
+        "type": "text",
+        "score": 0.029726775956284153
+      }
+    ]
+  }
+]
