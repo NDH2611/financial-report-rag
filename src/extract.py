@@ -22,6 +22,25 @@ TABLE_CHUNK_SIZE = 3600
 CHUNK_OVERLAP = 200
 OCR_DPI = 250
 
+# Apple 2025 Form 10-K page convention:
+# physical PDF page 4 == printed report page 1.
+#
+# We preserve both page systems:
+#   pdf_page = physical page in the PDF file
+#   page     = printed page shown inside the Form 10-K
+#
+# questions.json / evidence_pages use the printed report page.
+REPORT_PAGE_OFFSET = 3
+
+
+def pdf_page_to_report_page(pdf_page: int) -> int | None:
+    """Convert physical PDF page to printed Form 10-K page."""
+
+    if pdf_page <= REPORT_PAGE_OFFSET:
+        return None
+
+    return pdf_page - REPORT_PAGE_OFFSET
+
 
 def clean_text(text: str) -> str:
     """Loại đầu trang, URL và chân trang; giữ nội dung báo cáo."""
@@ -698,6 +717,9 @@ def extract_pdf(input_path: Path) -> list[dict]:
         print(f"PDF: {input_path.name} — {total_pages} trang")
 
         for page_index, page in enumerate(pdf):
+            pdf_page = page_index + 1
+            report_page = pdf_page_to_report_page(pdf_page)
+
             page_text, page_tables, method = extract_page_segments(page)
             page_chunks = split_into_chunks(page_text)
 
@@ -714,7 +736,8 @@ def extract_pdf(input_path: Path) -> list[dict]:
                     "metadata": {
                         "company": "Apple Inc.",
                         "fiscal_year": 2025,
-                        "page": page_index + 1,
+                        "pdf_page": pdf_page,
+                        "page": report_page,
                         "section": section,
                         "type": "text",
                         "extraction_method": method,
@@ -739,7 +762,8 @@ def extract_pdf(input_path: Path) -> list[dict]:
                         "metadata": {
                             "company": "Apple Inc.",
                             "fiscal_year": 2025,
-                            "page": page_index + 1,
+                            "pdf_page": pdf_page,
+                            "page": report_page,
                             "section": section or "financial_statements",
                             "type": "table",
                             "table_id": (
