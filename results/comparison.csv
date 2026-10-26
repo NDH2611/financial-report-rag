@@ -1,2 +1,4 @@
-﻿configuration,configuration_label,questions_evaluated,answer_accuracy_%,numerical_accuracy_%,evidence_accuracy_%,retrieval_recall_%,hallucination_rate_%,reasoning_accuracy_%,trend_accuracy_%,abstention_accuracy_%,parse_error_rate_%,avg_latency_seconds,avg_input_tokens,avg_output_tokens,cost
-llm_only,LLM Only,30,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,3.7261,100.0,40.125,
+﻿configuration,configuration_label,questions_evaluated,answer_accuracy_%,numerical_accuracy_%,evidence_accuracy_%,retrieval_recall_%,hallucination_rate_%,hallucination_resolved,hallucination_supported,hallucination_flagged,hallucination_uncertain,hallucination_missing,reasoning_accuracy_%,trend_accuracy_%,abstention_accuracy_%,parse_error_rate_%,avg_latency_seconds,avg_input_tokens,avg_output_tokens,cost
+llm_only,LLM Only,30,10.0,0.0,0.0,,13.33,30,26,4,0,0,0.0,0.0,100.0,0.0,7.238,99.9667,34.8333,
+rag,LLM + RAG,30,90.0,86.36,0.0,88.89,16.67,30,25,5,0,0,85.71,100.0,100.0,0.0,17.4189,1995.8333,85.4333,
+rag_evidence,LLM + RAG + Evidence,30,86.67,81.82,77.78,88.89,16.67,30,25,5,0,0,85.71,100.0,100.0,0.0,11.4649,2176.8333,190.4333,
