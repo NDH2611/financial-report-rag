@@ -1,0 +1,873 @@
+{
+  "llm_only:Q28": {
+    "key": "llm_only:Q28",
+    "configuration": "llm_only",
+    "id": "Q28",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "llm_only:Q29": {
+    "key": "llm_only:Q29",
+    "configuration": "llm_only",
+    "id": "Q29",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "llm_only:Q30": {
+    "key": "llm_only:Q30",
+    "configuration": "llm_only",
+    "id": "Q30",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag:Q28": {
+    "key": "rag:Q28",
+    "configuration": "rag",
+    "id": "Q28",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag:Q29": {
+    "key": "rag:Q29",
+    "configuration": "rag",
+    "id": "Q29",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag:Q30": {
+    "key": "rag:Q30",
+    "configuration": "rag",
+    "id": "Q30",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag_evidence:Q28": {
+    "key": "rag_evidence:Q28",
+    "configuration": "rag_evidence",
+    "id": "Q28",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag_evidence:Q29": {
+    "key": "rag_evidence:Q29",
+    "configuration": "rag_evidence",
+    "id": "Q29",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "rag_evidence:Q30": {
+    "key": "rag_evidence:Q30",
+    "configuration": "rag_evidence",
+    "id": "Q30",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "Correct abstention on an unanswerable question.",
+    "method": "deterministic"
+  },
+  "llm_only:Q01": {
+    "key": "llm_only:Q01",
+    "configuration": "llm_only",
+    "id": "Q01",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering, which is not a hallucination under Rule 7.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q02": {
+    "key": "llm_only:Q02",
+    "configuration": "llm_only",
+    "id": "Q02",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering, which is not a hallucination under Rule 7.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q03": {
+    "key": "llm_only:Q03",
+    "configuration": "llm_only",
+    "id": "Q03",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering, which is not a hallucination under Rule 7.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q04": {
+    "key": "llm_only:Q04",
+    "configuration": "llm_only",
+    "id": "Q04",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering, which is not a hallucination under Rule 7.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q05": {
+    "key": "llm_only:Q05",
+    "configuration": "llm_only",
+    "id": "Q05",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering, which is not a hallucination under Rule 7.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q06": {
+    "key": "llm_only:Q06",
+    "configuration": "llm_only",
+    "id": "Q06",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a non-hallucinatory abstention correctly noting that no source document was provided.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q07": {
+    "key": "llm_only:Q07",
+    "configuration": "llm_only",
+    "id": "Q07",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The response falsely claims that September 27, 2025 is in the future and financial statements have not been released, which contradicts the reference.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q08": {
+    "key": "llm_only:Q08",
+    "configuration": "llm_only",
+    "id": "Q08",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The response falsely claims that Apple's fiscal year 2025 has not yet concluded, contradicting the reference.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q09": {
+    "key": "llm_only:Q09",
+    "configuration": "llm_only",
+    "id": "Q09",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention stating that the required data is not available to answer.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q10": {
+    "key": "llm_only:Q10",
+    "configuration": "llm_only",
+    "id": "Q10",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention correctly pointing out that no context or company was specified.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q11": {
+    "key": "llm_only:Q11",
+    "configuration": "llm_only",
+    "id": "Q11",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to missing context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q12": {
+    "key": "llm_only:Q12",
+    "configuration": "llm_only",
+    "id": "Q12",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to missing context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q13": {
+    "key": "llm_only:Q13",
+    "configuration": "llm_only",
+    "id": "Q13",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to missing context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q14": {
+    "key": "llm_only:Q14",
+    "configuration": "llm_only",
+    "id": "Q14",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to missing context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q15": {
+    "key": "llm_only:Q15",
+    "configuration": "llm_only",
+    "id": "Q15",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to missing context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q16": {
+    "key": "llm_only:Q16",
+    "configuration": "llm_only",
+    "id": "Q16",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering due to lack of provided context, which is not considered a hallucination.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q17": {
+    "key": "llm_only:Q17",
+    "configuration": "llm_only",
+    "id": "Q17",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The model claims that Apple's fiscal year 2025 has not concluded and Form 10-K has not been released, which is an unsupported claim contradicted by the reference data.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q18": {
+    "key": "llm_only:Q18",
+    "configuration": "llm_only",
+    "id": "Q18",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model correctly states that no financial report or context was provided in the prompt and abstains.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q19": {
+    "key": "llm_only:Q19",
+    "configuration": "llm_only",
+    "id": "Q19",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model abstains from answering because no financial data was provided in the prompt.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q20": {
+    "key": "llm_only:Q20",
+    "configuration": "llm_only",
+    "id": "Q20",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The model claims that complete financial reports for Apple's full fiscal year 2025 are not available, which is unsupported by the reference.",
+    "method": "llm_judge"
+  },
+  "llm_only:Q21": {
+    "key": "llm_only:Q21",
+    "configuration": "llm_only",
+    "id": "Q21",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q22": {
+    "key": "llm_only:Q22",
+    "configuration": "llm_only",
+    "id": "Q22",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q23": {
+    "key": "llm_only:Q23",
+    "configuration": "llm_only",
+    "id": "Q23",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q24": {
+    "key": "llm_only:Q24",
+    "configuration": "llm_only",
+    "id": "Q24",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q25": {
+    "key": "llm_only:Q25",
+    "configuration": "llm_only",
+    "id": "Q25",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q26": {
+    "key": "llm_only:Q26",
+    "configuration": "llm_only",
+    "id": "Q26",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "llm_only:Q27": {
+    "key": "llm_only:Q27",
+    "configuration": "llm_only",
+    "id": "Q27",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response is a valid abstention due to missing context.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q01": {
+    "key": "rag:Q01",
+    "configuration": "rag",
+    "id": "Q01",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated total net sales figure matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q02": {
+    "key": "rag:Q02",
+    "configuration": "rag",
+    "id": "Q02",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The net income figure and its equivalent in billions are fully supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q03": {
+    "key": "rag:Q03",
+    "configuration": "rag",
+    "id": "Q03",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The response includes specific factual claims about OCR artifacts and weighted-average share counts that are not supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q04": {
+    "key": "rag:Q04",
+    "configuration": "rag",
+    "id": "Q04",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated R&D expense of $34,550 million is fully supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q05": {
+    "key": "rag:Q05",
+    "configuration": "rag",
+    "id": "Q05",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The answer accurately states the employee count as supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q06": {
+    "key": "rag:Q06",
+    "configuration": "rag",
+    "id": "Q06",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated cash and cash equivalents amount of $35,934 million matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q07": {
+    "key": "rag:Q07",
+    "configuration": "rag",
+    "id": "Q07",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated total assets of $359,241 million matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q08": {
+    "key": "rag:Q08",
+    "configuration": "rag",
+    "id": "Q08",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated cash generated from operating activities matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q09": {
+    "key": "rag:Q09",
+    "configuration": "rag",
+    "id": "Q09",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The net sales figures and calculated difference are accurately derived from the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q10": {
+    "key": "rag:Q10",
+    "configuration": "rag",
+    "id": "Q10",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The net sales figures and calculated difference are accurately derived from the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q11": {
+    "key": "rag:Q11",
+    "configuration": "rag",
+    "id": "Q11",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The claim that R&D expense increased is correct, and abstaining on the specific amount is not hallucination.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q12": {
+    "key": "rag:Q12",
+    "configuration": "rag",
+    "id": "Q12",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The gross margin percentages and calculated difference are fully supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q13": {
+    "key": "rag:Q13",
+    "configuration": "rag",
+    "id": "Q13",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The response includes additional factual claims about the State Aid Decision and specific tax details that go beyond the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q14": {
+    "key": "rag:Q14",
+    "configuration": "rag",
+    "id": "Q14",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model correctly calculates and reports the percentage growth of net sales based on the supported figures.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q15": {
+    "key": "rag:Q15",
+    "configuration": "rag",
+    "id": "Q15",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model accurately calculates and states Apple's net profit margin using the values in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q16": {
+    "key": "rag:Q16",
+    "configuration": "rag",
+    "id": "Q16",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model provides the correct inputs and percentage, explicitly supported by the reference note regarding the 10-K reporting.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q17": {
+    "key": "rag:Q17",
+    "configuration": "rag",
+    "id": "Q17",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model calculates the gross margin percentage correctly using figures provided in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q18": {
+    "key": "rag:Q18",
+    "configuration": "rag",
+    "id": "Q18",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model correctly calculates the share of total net sales accounted for by Services.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q19": {
+    "key": "rag:Q19",
+    "configuration": "rag",
+    "id": "Q19",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "An abstention due to perceived missing information is not considered a hallucination.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q20": {
+    "key": "rag:Q20",
+    "configuration": "rag",
+    "id": "Q20",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The answer includes extra factual claims regarding valuation allowances and foreign earnings rates that go beyond what the reference supports.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q21": {
+    "key": "rag:Q21",
+    "configuration": "rag",
+    "id": "Q21",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The explanation matches the key points provided in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q22": {
+    "key": "rag:Q22",
+    "configuration": "rag",
+    "id": "Q22",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model accurately states the reasons for the decrease in Products gross margin percentage as listed in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q23": {
+    "key": "rag:Q23",
+    "configuration": "rag",
+    "id": "Q23",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model's explanation directly aligns with the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q24": {
+    "key": "rag:Q24",
+    "configuration": "rag",
+    "id": "Q24",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The model answer correctly lists the drivers specified in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q25": {
+    "key": "rag:Q25",
+    "configuration": "rag",
+    "id": "Q25",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claim regarding the specific drivers of the 2025 increase goes beyond what the provided reference supports.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q26": {
+    "key": "rag:Q26",
+    "configuration": "rag",
+    "id": "Q26",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The answer accurately reflects the reference data and includes a correct calculation based on supported values.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag:Q27": {
+    "key": "rag:Q27",
+    "configuration": "rag",
+    "id": "Q27",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claims about lower iPhone sales and higher Mac sales are not supported by the provided reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q01": {
+    "key": "rag_evidence:Q01",
+    "configuration": "rag_evidence",
+    "id": "Q01",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The total net sales amount matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q02": {
+    "key": "rag_evidence:Q02",
+    "configuration": "rag_evidence",
+    "id": "Q02",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The net income amount matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q03": {
+    "key": "rag_evidence:Q03",
+    "configuration": "rag_evidence",
+    "id": "Q03",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claim regarding how the number is presented in the tables ($746 / $7A6) goes beyond the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q04": {
+    "key": "rag_evidence:Q04",
+    "configuration": "rag_evidence",
+    "id": "Q04",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The research and development expense matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q05": {
+    "key": "rag_evidence:Q05",
+    "configuration": "rag_evidence",
+    "id": "Q05",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The employee count matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q06": {
+    "key": "rag_evidence:Q06",
+    "configuration": "rag_evidence",
+    "id": "Q06",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The cash and cash equivalents figure matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q07": {
+    "key": "rag_evidence:Q07",
+    "configuration": "rag_evidence",
+    "id": "Q07",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated total assets value matches the reference exactly.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q08": {
+    "key": "rag_evidence:Q08",
+    "configuration": "rag_evidence",
+    "id": "Q08",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The stated operating cash flow matches the reference exactly.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q09": {
+    "key": "rag_evidence:Q09",
+    "configuration": "rag_evidence",
+    "id": "Q09",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The comparison and numerical figures are fully supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q10": {
+    "key": "rag_evidence:Q10",
+    "configuration": "rag_evidence",
+    "id": "Q10",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The comparison and difference match the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q11": {
+    "key": "rag_evidence:Q11",
+    "configuration": "rag_evidence",
+    "id": "Q11",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "An abstention is not considered a hallucination under the provided rules.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q12": {
+    "key": "rag_evidence:Q12",
+    "configuration": "rag_evidence",
+    "id": "Q12",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The values and calculated difference of percentage points are fully supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q13": {
+    "key": "rag_evidence:Q13",
+    "configuration": "rag_evidence",
+    "id": "Q13",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The response makes detailed factual claims about the reasons for the tax rate change that go beyond the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q14": {
+    "key": "rag_evidence:Q14",
+    "configuration": "rag_evidence",
+    "id": "Q14",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The growth percentage matches the calculated ground truth in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q15": {
+    "key": "rag_evidence:Q15",
+    "configuration": "rag_evidence",
+    "id": "Q15",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The net profit margin percentage matches the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q16": {
+    "key": "rag_evidence:Q16",
+    "configuration": "rag_evidence",
+    "id": "Q16",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The percentage stated is explicitly noted in the reference as reported in the 10-K.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q17": {
+    "key": "rag_evidence:Q17",
+    "configuration": "rag_evidence",
+    "id": "Q17",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claim that 46.9% was reported in the consolidated statements is not supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q18": {
+    "key": "rag_evidence:Q18",
+    "configuration": "rag_evidence",
+    "id": "Q18",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response accurately provides the calculated percentage supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q19": {
+    "key": "rag_evidence:Q19",
+    "configuration": "rag_evidence",
+    "id": "Q19",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "An abstention is not considered a hallucination under the evaluation rules.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q20": {
+    "key": "rag_evidence:Q20",
+    "configuration": "rag_evidence",
+    "id": "Q20",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claims regarding valuation allowance and tax rate on foreign earnings go beyond the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q21": {
+    "key": "rag_evidence:Q21",
+    "configuration": "rag_evidence",
+    "id": "Q21",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response accurately conveys the factors explaining the sales decrease as stated in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q22": {
+    "key": "rag_evidence:Q22",
+    "configuration": "rag_evidence",
+    "id": "Q22",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The answer accurately reflects the causes of the gross margin decrease described in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q23": {
+    "key": "rag_evidence:Q23",
+    "configuration": "rag_evidence",
+    "id": "Q23",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response correctly states the reasons for the increase in gross margin percentage supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q24": {
+    "key": "rag_evidence:Q24",
+    "configuration": "rag_evidence",
+    "id": "Q24",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The answer correctly lists the drivers of the increase in Services net sales from the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q25": {
+    "key": "rag_evidence:Q25",
+    "configuration": "rag_evidence",
+    "id": "Q25",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The answer accurately details the trend, values, and percentage changes provided in the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q26": {
+    "key": "rag_evidence:Q26",
+    "configuration": "rag_evidence",
+    "id": "Q26",
+    "status": "supported",
+    "hallucinated": false,
+    "reason": "The response correctly identifies the non-steady trend and figures supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  },
+  "rag_evidence:Q27": {
+    "key": "rag_evidence:Q27",
+    "configuration": "rag_evidence",
+    "id": "Q27",
+    "status": "hallucinated",
+    "hallucinated": true,
+    "reason": "The claim regarding the specific drivers of the 2025 decrease (iPhone and Mac sales) goes beyond what is supported by the reference.",
+    "method": "llm_judge",
+    "judge_model": "gemini-3.6-flash"
+  }
+}

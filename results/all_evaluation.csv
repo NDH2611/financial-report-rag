@@ -1,33 +1,209 @@
-﻿id,category,configuration,answer,answer_accuracy,numerical_accuracy,evidence_accuracy,retrieval_recall,reasoning_accuracy,trend_accuracy,abstention_accuracy,parse_error,latency,input_tokens,output_tokens,model
-Q01,fact_retrieval,llm_only,"The information is insufficient to answer this question, as Apple's official financial results for the full fiscal year 2025 are not available.",False,False,False,,,,,,3.918756900005974,96.0,29.0,gemini-3.5-flash
-Q02,fact_retrieval,llm_only,"The information is insufficient. Apple's fiscal year 2025 has not yet concluded, and its full-year financial results have not been released.",False,False,False,,,,,,3.5458700000308454,95.0,32.0,gemini-3.5-flash
-Q03,fact_retrieval,llm_only,,False,False,False,,,,,,,,,
-Q04,fact_retrieval,llm_only,"The information is insufficient. Apple's full fiscal year 2025 results have not been completed or officially reported yet, so the total R&D expense for FY2025 is not available.",False,False,False,,,,,,3.0839887000620365,102.0,43.0,gemini-3.5-flash
-Q05,fact_retrieval,llm_only,"The information is insufficient. Apple’s official employee count as of September 27, 2025, requires data from Apple's Fiscal Year 2025 Form 10-K report, which is not available in the provided context or reliable financial records.",False,False,False,,,,,,3.866732099908404,103.0,58.0,gemini-3.5-flash
-Q06,fact_retrieval,llm_only,,False,False,False,,,,,,,,,
+﻿id,category,configuration,answer,answer_accuracy,numerical_accuracy,evidence_accuracy,retrieval_recall,hallucinated,hallucination_status,hallucination_reason,reasoning_accuracy,trend_accuracy,abstention_accuracy,parse_error,latency,input_tokens,output_tokens,model
+Q01,fact_retrieval,llm_only,"The information is insufficient to answer this question, as Apple's official financial results for the full fiscal year 2025 are not available.",False,False,False,,False,supported,"The model abstains from answering, which is not a hallucination under Rule 7.",,,,,3.918756900005974,96.0,29.0,gemini-3.5-flash
+Q02,fact_retrieval,llm_only,"The information is insufficient. Apple's fiscal year 2025 has not yet concluded, and its full-year financial results have not been released.",False,False,False,,False,supported,"The model abstains from answering, which is not a hallucination under Rule 7.",,,,,3.5458700000308454,95.0,32.0,gemini-3.5-flash
+Q03,fact_retrieval,llm_only,"The information is insufficient. Apple's fiscal year 2025 (which runs from October 2024 through September 2025) has not concluded, so official full-year financial reports and final diluted EPS figures are not available.",False,False,False,,False,supported,"The model abstains from answering, which is not a hallucination under Rule 7.",,,,,4.2688140999525785,100.0,53.0,gemini-3.5-flash
+Q04,fact_retrieval,llm_only,"The information is insufficient. Apple's full fiscal year 2025 results have not been completed or officially reported yet, so the total R&D expense for FY2025 is not available.",False,False,False,,False,supported,"The model abstains from answering, which is not a hallucination under Rule 7.",,,,,3.0839887000620365,102.0,43.0,gemini-3.5-flash
+Q05,fact_retrieval,llm_only,"The information is insufficient. Apple’s official employee count as of September 27, 2025, requires data from Apple's Fiscal Year 2025 Form 10-K report, which is not available in the provided context or reliable financial records.",False,False,False,,False,supported,"The model abstains from answering, which is not a hallucination under Rule 7.",,,,,3.866732099908404,103.0,58.0,gemini-3.5-flash
+Q06,fact_retrieval,llm_only,"The information is insufficient to answer the question, as no financial report or source document was provided containing Apple's balance sheet data as of September 27, 2025.",False,False,False,,False,supported,The response is a non-hallucinatory abstention correctly noting that no source document was provided.,,,,,8.50278189999517,101.0,38.0,gemini-3.5-flash
 Q07,fact_retrieval,llm_only,"The information is insufficient. 
 
-As of now, financial statements for Apple Inc. covering the period ending September 27, 2025, have not been released because that date is in the future.",False,False,False,,,,,,3.0938715999946,99.0,44.0,gemini-3.5-flash
-Q08,fact_retrieval,llm_only,"The information is insufficient. Apple’s full fiscal year 2025 has not yet concluded (its fiscal year ends in late September 2025), so the total cash generated from operating activities for fiscal year 2025 is not yet available.",False,False,False,,,,,,3.327462299959734,97.0,55.0,gemini-3.5-flash
-Q09,comparison,llm_only,,False,False,False,,,,,,,,,
-Q10,comparison,llm_only,,False,False,False,,,,,,,,,
-Q11,comparison,llm_only,,False,False,False,,,,,,,,,
-Q12,comparison,llm_only,,False,False,False,,,,,,,,,
-Q13,comparison,llm_only,,False,False,False,,,,,,,,,
-Q14,calculation,llm_only,"The information provided is insufficient to answer this question, as no financial report or data for fiscal years 2024 and 2025 was provided.",False,False,False,,False,,,,2.5849752000067383,103.0,33.0,gemini-3.5-flash
-Q15,calculation,llm_only,,False,False,False,,False,,,,,,,
-Q16,calculation,llm_only,,False,False,False,,False,,,,,,,
-Q17,calculation,llm_only,,False,False,False,,False,,,,,,,
-Q18,calculation,llm_only,,False,False,False,,False,,,,,,,
-Q19,calculation,llm_only,,False,False,False,,False,,,,,,,
-Q20,reasoning,llm_only,The information is insufficient to answer this question because complete financial reports for Apple's full fiscal year 2025 are not available.,False,,False,,False,,,,6.387123700114898,105.0,27.0,gemini-3.5-flash
-Q21,reasoning,llm_only,,False,,False,,False,,,,,,,
-Q22,reasoning,llm_only,,False,,False,,False,,,,,,,
-Q23,reasoning,llm_only,,False,,False,,False,,,,,,,
-Q24,reasoning,llm_only,,False,,False,,False,,,,,,,
-Q25,trend,llm_only,,False,False,False,,False,False,,,,,,
-Q26,trend,llm_only,,False,False,False,,False,False,,,,,,
-Q27,trend,llm_only,,False,False,False,,False,False,,,,,,
-Q28,unanswerable,llm_only,,False,,,,,,False,,,,,
-Q29,unanswerable,llm_only,,False,,,,,,False,,,,,
-Q30,unanswerable,llm_only,,False,,,,,,False,,,,,
+As of now, financial statements for Apple Inc. covering the period ending September 27, 2025, have not been released because that date is in the future.",False,False,False,,True,hallucinated,"The response falsely claims that September 27, 2025 is in the future and financial statements have not been released, which contradicts the reference.",,,,,3.0938715999946,99.0,44.0,gemini-3.5-flash
+Q08,fact_retrieval,llm_only,"The information is insufficient. Apple’s full fiscal year 2025 has not yet concluded (its fiscal year ends in late September 2025), so the total cash generated from operating activities for fiscal year 2025 is not yet available.",False,False,False,,True,hallucinated,"The response falsely claims that Apple's fiscal year 2025 has not yet concluded, contradicting the reference.",,,,,3.327462299959734,97.0,55.0,gemini-3.5-flash
+Q09,comparison,llm_only,The information is insufficient. Full-year net sales data for Apple's fiscal year 2025 is not available.,False,False,False,,False,supported,The response is a valid abstention stating that the required data is not available to answer.,,,,,3.620456699980423,105.0,26.0,gemini-3.5-flash
+Q10,comparison,llm_only,"The information provided is insufficient. The question does not specify which company's financial report is being referenced, nor is there any financial data provided for fiscal year 2025.",False,False,False,,False,supported,The response is a valid abstention correctly pointing out that no context or company was specified.,,,,,8.37189200008288,106.0,37.0,gemini-3.5-flash
+Q11,comparison,llm_only,"The information provided is insufficient to answer the question, as no specific company or financial report context was provided.",False,False,False,,False,supported,"The model abstains from answering due to missing context, which is not considered a hallucination.",,,,,4.04318899998907,108.0,21.0,gemini-3.5-flash
+Q12,comparison,llm_only,The information provided is insufficient to answer this question because no financial data or source documents for fiscal year 2025 were provided.,False,False,False,,False,supported,"The model abstains from answering due to missing context, which is not considered a hallucination.",,,,,2.528020199970342,101.0,27.0,gemini-3.5-flash
+Q13,comparison,llm_only,The information is insufficient to answer this question because complete financial results and tax data for Apple's fiscal year 2025 are not available.,False,False,False,,False,supported,"The model abstains from answering due to missing context, which is not considered a hallucination.",,,,,4.4343666000058874,103.0,30.0,gemini-3.5-flash
+Q14,calculation,llm_only,"The information provided is insufficient to answer this question, as no financial report or data for fiscal years 2024 and 2025 was provided.",False,False,False,,False,supported,"The model abstains from answering due to missing context, which is not considered a hallucination.",False,,,,2.5849752000067383,103.0,33.0,gemini-3.5-flash
+Q15,calculation,llm_only,The information is insufficient. Apple's full fiscal year 2025 financial results (total net sales and net income) have not yet been completed or officially reported.,False,False,False,,False,supported,"The model abstains from answering due to missing context, which is not considered a hallucination.",False,,,,2.9993450000183657,104.0,35.0,gemini-3.5-flash
+Q16,calculation,llm_only,The information provided is insufficient to answer the question. Please specify the company and provide the relevant financial data (Total Net Sales and R&D Expense) for fiscal year 2025.,False,False,False,,False,supported,"The model abstains from answering due to lack of provided context, which is not considered a hallucination.",False,,,,11.46765379991848,99.0,39.0,gemini-3.5-flash
+Q17,calculation,llm_only,"The information is insufficient to answer this question because Apple's fiscal year 2025 has not yet concluded, and the final audited financial statements (Form 10-K) for fiscal year 2025 have not been released.",False,False,False,,True,hallucinated,"The model claims that Apple's fiscal year 2025 has not concluded and Form 10-K has not been released, which is an unsupported claim contradicted by the reference data.",False,,,,9.535178999998607,106.0,51.0,gemini-3.5-flash
+Q18,calculation,llm_only,"The information provided is insufficient to answer the question, as no financial report or data for fiscal year 2025 was provided.",False,False,False,,False,supported,The model correctly states that no financial report or context was provided in the prompt and abstains.,False,,,,5.3752959000412375,98.0,27.0,gemini-3.5-flash
+Q19,calculation,llm_only,"The information provided is insufficient to answer the question, as no financial data or context for fiscal years 2024 and 2025 was provided.",False,False,False,,False,supported,The model abstains from answering because no financial data was provided in the prompt.,False,,,,3.2895986000075936,102.0,33.0,gemini-3.5-flash
+Q20,reasoning,llm_only,The information is insufficient to answer this question because complete financial reports for Apple's full fiscal year 2025 are not available.,False,,False,,True,hallucinated,"The model claims that complete financial reports for Apple's full fiscal year 2025 are not available, which is unsupported by the reference.",False,,,,6.387123700114898,105.0,27.0,gemini-3.5-flash
+Q21,reasoning,llm_only,The information is insufficient to answer the question because no financial report or specific company context was provided.,False,,False,,False,supported,The response is a valid abstention due to missing context.,False,,,,3.8658551999833435,95.0,19.0,gemini-3.5-flash
+Q22,reasoning,llm_only,"The information provided is insufficient to answer the question, as no financial report or company context was included. Please provide the relevant financial text or data for fiscal year 2025.",False,,False,,False,supported,The response is a valid abstention due to missing context.,False,,,,6.291678100009449,96.0,37.0,gemini-3.5-flash
+Q23,reasoning,llm_only,The information provided is insufficient to answer the question. Please provide the relevant financial report or specify the company you are referring to so I can analyze the drivers behind the change in the Services gross margin percentage.,False,,False,,False,supported,The response is a valid abstention due to missing context.,False,,,,66.40078639995772,96.0,40.0,gemini-3.5-flash
+Q24,reasoning,llm_only,"The information provided is insufficient to answer the question, as no specific company or financial report context was provided.",False,,False,,False,supported,The response is a valid abstention due to missing context.,False,,,,6.2942313000094146,96.0,21.0,gemini-3.5-flash
+Q25,trend,llm_only,"The information is insufficient to answer the question, as no financial statements or data were provided.",False,False,False,,False,supported,The response is a valid abstention due to missing context.,False,False,,,6.288403799990192,102.0,18.0,gemini-3.5-flash
+Q26,trend,llm_only,The information is insufficient to answer the question because no financial data or company context was provided for fiscal years 2023 to 2025.,False,False,False,,False,supported,The response is a valid abstention due to missing context.,False,False,,,3.1216125999344513,99.0,32.0,gemini-3.5-flash
+Q27,trend,llm_only,"The information is insufficient to answer the question, as no financial data or company report was provided for fiscal years 2023 to 2025.",False,False,False,,False,supported,The response is a valid abstention due to missing context.,False,False,,,2.952835000003688,103.0,33.0,gemini-3.5-flash
+Q28,unanswerable,llm_only,"I do not have access to real-time market data. Therefore, the information is insufficient to provide Apple's (AAPL) current stock price today.",True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,2.592241100035608,91.0,31.0,gemini-3.5-flash
+Q29,unanswerable,llm_only,The provided information is insufficient. Apple does not publicly disclose or forecast specific long-term revenue targets for fiscal year 2027 in its official financial reports or guidance.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,3.631412300048396,93.0,35.0,gemini-3.5-flash
+Q30,unanswerable,llm_only,"The information is insufficient. 
+
+Apple stopped reporting individual product unit sales (including iPhones) starting in fiscal year 2019 and only reports revenue figures for its product categories in its financial reports.",True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,17.454966600053012,95.0,41.0,gemini-3.5-flash
+Q01,fact_retrieval,rag,"Apple's total net sales for fiscal year 2025 was **$416,161 million**.",True,True,False,True,False,supported,The stated total net sales figure matches the reference.,,,,,6.548613199964166,2118.0,26.0,gemini-3.5-flash
+Q02,fact_retrieval,rag,"Based on the provided context, Apple's net income for fiscal year 2025 was **$112,010 million** (or $112.01 billion).",True,True,False,True,False,supported,The net income figure and its equivalent in billions are fully supported by the reference.,,,,,5.029712000046857,2367.0,42.0,gemini-3.5-flash
+Q03,fact_retrieval,rag,"Based on the provided context, Apple's diluted earnings per share (EPS) for fiscal year 2025 was **$7.46** (rendered as `$746` / `$7A6` in the text table due to OCR artifacts).
+
+**Calculation:**
+* **Net income (2025):** $112,010 million
+* **Weighted-average diluted shares (2025):** 15,004,697 thousand (or 15,004.697 million)
+
+$$\text{Diluted EPS} = \frac{\$112,010\text{ million}}{15,004.697\text{ million shares}} \approx \$7.46 \text{ per share}$$",True,True,False,True,True,hallucinated,The response includes specific factual claims about OCR artifacts and weighted-average share counts that are not supported by the reference.,,,,,8.429353400017135,2343.0,175.0,gemini-3.5-flash
+Q04,fact_retrieval,rag,"Based on the provided context (Consolidated Statements of Operations), Apple's research and development (R&D) expense for fiscal year 2025 was **$34,550 million** ($34.55 billion).",True,True,False,True,False,supported,"The stated R&D expense of $34,550 million is fully supported by the reference.",,,,,6.470872899983078,1994.0,51.0,gemini-3.5-flash
+Q05,fact_retrieval,rag,"As of September 27, 2025, Apple had approximately 166,000 full-time equivalent employees.",True,True,False,True,False,supported,The answer accurately states the employee count as supported by the reference.,,,,,5.019515799940564,1655.0,30.0,gemini-3.5-flash
+Q06,fact_retrieval,rag,"As of September 27, 2025, Apple's cash and cash equivalents were **$35,934 million** (or $35.934 billion).",True,True,False,True,False,supported,"The stated cash and cash equivalents amount of $35,934 million matches the reference.",,,,,17.041616400005296,4000.0,42.0,gemini-3.5-flash
+Q07,fact_retrieval,rag,"As of September 27, 2025, Apple's total assets were **$359,241 million** (or $359.241 billion).",True,True,False,True,False,supported,"The stated total assets of $359,241 million matches the reference.",,,,,2.7813892000121996,2083.0,42.0,gemini-3.5-flash
+Q08,fact_retrieval,rag,"In fiscal year 2025 (year ended September 27, 2025), Apple generated **$111,482 million** in cash from operating activities.",True,True,False,True,False,supported,The stated cash generated from operating activities matches the reference.,,,,,4.038785499986261,2827.0,40.0,gemini-3.5-flash
+Q09,comparison,rag,"In fiscal year 2025, **iPhone net sales** were larger than Services net sales. 
+
+Based on the provided context:
+* **iPhone net sales (2025):** $209,586 million
+* **Services net sales (2025):** $109,158 million
+
+**Calculation:**
+$$\$209,586\text{ million} - \$109,158\text{ million} = \$100,428\text{ million}$$
+
+iPhone net sales were larger by **$100,428 million**.",True,True,False,True,False,supported,The net sales figures and calculated difference are accurately derived from the reference.,,,,,7.685878399992362,1518.0,138.0,gemini-3.5-flash
+Q10,comparison,rag,"Based on the provided context, in fiscal year 2025:
+
+* **Europe net sales:** $111,032 million
+* **Greater China net sales:** $64,377 million
+
+**Europe net sales** was larger than Greater China net sales.
+
+**Calculation:**
+$$\$111,032\text{ million} - \$64,377\text{ million} = \$46,655\text{ million}$$
+
+Europe net sales was larger by **$46,655 million**.",True,True,False,True,False,supported,The net sales figures and calculated difference are accurately derived from the reference.,,,,,4.9005262000719085,2501.0,123.0,gemini-3.5-flash
+Q11,comparison,rag,"Based on the provided context, R&D expense increased (""growth in R&D expense"") in fiscal year 2025 compared to 2024. However, the specific numerical dollar amount of the increase (""by how much"") is not provided.
+
+Insufficient information in the provided context.",False,False,False,True,False,supported,"The claim that R&D expense increased is correct, and abstaining on the specific amount is not hallucination.",,,,,9.867649000021629,1339.0,61.0,gemini-3.5-flash
+Q12,comparison,rag,"In fiscal year 2025, the gross margin percentage of Services was significantly higher than that of Products:
+
+* **Services Gross Margin Percentage (2025):** 75.4%
+* **Products Gross Margin Percentage (2025):** 36.8%
+
+**Comparison:**
+The Services gross margin percentage was 38.6 percentage points higher than the Products gross margin percentage in fiscal year 2025 ($75.4\% - 36.8\% = 38.6\%$).",True,True,False,True,False,supported,The gross margin percentages and calculated difference are fully supported by the reference.,,,,,3.7175532000837848,2120.0,117.0,gemini-3.5-flash
+Q13,comparison,rag,"Based on the provided context:
+
+* **Effective Tax Rates:** Apple's effective tax rate was **15.6%** in fiscal year 2025, compared to **24.1%** in fiscal year 2024 (a decrease of 8.5 percentage points).
+
+* **Reasons for the Comparison:** 
+  The effective tax rate in 2025 was lower compared to 2024 due to:
+  1. A $10.7 billion year-over-year decrease in the provision for income taxes related to the State Aid Decision.
+  2. The impact of changes in unrecognized tax benefits.
+  
+  These were partially offset by a change in valuation allowance and a higher effective tax rate on foreign earnings.",True,True,False,True,True,hallucinated,The response includes additional factual claims about the State Aid Decision and specific tax details that go beyond the reference.,,,,,4.852563599939458,1568.0,164.0,gemini-3.5-flash
+Q14,calculation,rag,"To calculate the percentage growth of total net sales in fiscal year 2025 compared to 2024:
+
+1. **Total Net Sales (from context):**
+   - **2025:** $416,161 million  
+   - **2024:** $391,035 million  
+
+2. **Calculation:**
+   $$\text{Growth Amount} = \$416,161 \text{ million} - \$391,035 \text{ million} = \$25,126 \text{ million}$$
+
+   $$\text{Percentage Growth} = \left( \frac{\$25,126 \text{ million}}{\$391,035 \text{ million}} \right) \times 100 \approx 6.43\%$$
+
+Total net sales grew by approximately **6.43%** (or **6.4%**) in fiscal year 2025 compared with 2024.",True,True,False,True,False,supported,The model correctly calculates and reports the percentage growth of net sales based on the supported figures.,True,,,,45.31981790007558,1581.0,225.0,gemini-3.5-flash
+Q15,calculation,rag,"Based on the provided context, here is the calculation for Apple's net profit margin in fiscal year 2025:
+
+* **Net Income (2025):** $112,010 million
+* **Total Net Sales (2025):** $416,161 million
+
+**Calculation:**
+$$\text{Net Profit Margin} = \frac{\text{Net Income}}{\text{Total Net Sales}}$$
+
+$$\text{Net Profit Margin} = \frac{\$112,010 \text{ million}}{\$416,161 \text{ million}} \approx 0.26915 \text{ (or } 26.92\% \text{)}$$
+
+Apple's net profit margin in fiscal year 2025 was approximately **26.92%** (or **0.26915**).",True,True,False,True,False,supported,The model accurately calculates and states Apple's net profit margin using the values in the reference.,True,,,,5.609233499970287,2340.0,198.0,gemini-3.5-flash
+Q16,calculation,rag,"In fiscal year 2025, Research and Development (R&D) expense was **8%** of total net sales. 
+
+*(Source: R&D expense was $34,550 million out of $416,161 million in total net sales, which represents 8%).*",False,False,False,True,False,supported,"The model provides the correct inputs and percentage, explicitly supported by the reference note regarding the 10-K reporting.",False,,,,174.9161071999697,1610.0,68.0,gemini-3.5-flash
+Q17,calculation,rag,"Based on the provided context, Apple's total gross margin and total net sales for fiscal year 2025 (dollars in millions) were:
+
+* **Total Gross Margin:** $195,201 million
+* **Total Net Sales:** $416,161 million
+
+**Calculation:**
+$$\text{Total Gross Margin Percentage} = \left( \frac{\$195,201 \text{ million}}{\$416,161 \text{ million}} \right) \times 100 \approx 46.91\%$$
+
+*(Note: As reported directly in the context table, the total gross margin percentage for 2025 is **46.9%**).*",True,True,False,True,False,supported,The model calculates the gross margin percentage correctly using figures provided in the reference.,True,,,,8.0114286999451,2023.0,159.0,gemini-3.5-flash
+Q18,calculation,rag,"Based on the provided context, in fiscal year 2025:
+
+* **Services Net Sales:** $109,158 million
+* **Total Net Sales:** $416,161 million
+
+**Calculation:**
+$$\text{Share of Total Net Sales} = \frac{\$109,158 \text{ million}}{\$416,161 \text{ million}} \approx 0.2623 \text{ or } 26.23\%$$
+
+Services accounted for approximately **26.23%** (or 26.2%) of total net sales in fiscal year 2025.",True,True,False,False,False,supported,The model correctly calculates the share of total net sales accounted for by Services.,True,,,,5.2456046000588685,1553.0,146.0,gemini-3.5-flash
+Q19,calculation,rag,Insufficient information in the provided context.,False,False,False,False,False,supported,An abstention due to perceived missing information is not considered a hallucination.,False,,,,6.37114089995157,1530.0,7.0,gemini-3.5-flash
+Q20,reasoning,rag,"Based on the provided context, Apple’s effective tax rate for 2025 was lower compared to 2024 due to:
+
+* A **$10.7 billion** year-over-year decrease in the provision for income taxes related to the State Aid Decision.
+* The impact of changes in unrecognized tax benefits.
+
+These factors were partially offset by a change in valuation allowance and a higher effective tax rate on foreign earnings.",True,,False,True,True,hallucinated,The answer includes extra factual claims regarding valuation allowances and foreign earnings rates that go beyond what the reference supports.,True,,,,4.032499800086953,1570.0,93.0,gemini-3.5-flash
+Q21,reasoning,rag,"Based on the provided context, Greater China net sales decreased during fiscal year 2025 compared to 2024 primarily due to **lower net sales of iPhone**, which was partially offset by **higher net sales of Mac**.",True,,False,True,False,supported,The explanation matches the key points provided in the reference.,True,,,,4.605439499951899,2407.0,48.0,gemini-3.5-flash
+Q22,reasoning,rag,"Based on the provided context, Products gross margin percentage decreased during 2025 compared to 2024 primarily due to:
+
+* A different mix of products
+* Tariff costs
+
+This decrease was partially offset by other favorable costs.",True,,False,True,False,supported,The model accurately states the reasons for the decrease in Products gross margin percentage as listed in the reference.,True,,,,4.469629000057466,1709.0,50.0,gemini-3.5-flash
+Q23,reasoning,rag,"Based on the provided context, the Services gross margin percentage increased in fiscal year 2025 primarily due to a different mix of services, which was partially offset by higher costs.",True,,False,True,False,supported,The model's explanation directly aligns with the reference.,True,,,,3.049315599957481,1709.0,37.0,gemini-3.5-flash
+Q24,reasoning,rag,"Based on the provided context, the increase in Services net sales during fiscal year 2025 (compared to 2024) was primarily driven by higher net sales from:
+
+* Advertising
+* The App Store
+* Cloud services",True,,False,True,False,supported,The model answer correctly lists the drivers specified in the reference.,True,,,,3.5736771000083536,1641.0,50.0,gemini-3.5-flash
+Q25,trend,rag,"Services net sales showed a consistent upward trend from fiscal year 2023 through fiscal year 2025:
+
+* **2023:** $85,200 million
+* **2024:** $96,169 million (an increase of 13% compared to 2023)
+* **2025:** $109,158 million (an increase of 14% compared to 2024)
+
+Services net sales increased each year, primarily driven in 2025 by higher net sales from advertising, the App Store, and cloud services.",True,True,False,True,True,hallucinated,The claim regarding the specific drivers of the 2025 increase goes beyond what the provided reference supports.,True,True,,,36.113554000039585,1735.0,137.0,gemini-3.5-flash
+Q26,trend,rag,"No. Net income did not increase steadily over fiscal years 2023 to 2025. 
+
+According to the provided context, net income was:
+* **2023:** $96,995 million
+* **2024:** $93,736 million
+* **2025:** $112,010 million
+
+Net income decreased by $3,259 million from 2023 to 2024 ($93,736 million - $96,995 million = -$3,259 million) before increasing in 2025.",True,True,False,False,False,supported,The answer accurately reflects the reference data and includes a correct calculation based on supported values.,True,True,,,28.34342110005673,2495.0,143.0,gemini-3.5-flash
+Q27,trend,rag,"Based on the provided context, net sales in China (Greater China) showed a downward trend (continuous decrease) from fiscal year 2023 through fiscal year 2025:
+
+* **2023:** $72,559 million
+* **2024:** $66,952 million
+* **2025:** $64,377 million
+
+Additionally, the context notes that Greater China net sales decreased in 2025 compared to 2024 primarily due to lower net sales of iPhone, partially offset by higher net sales of Mac.",True,True,False,True,True,hallucinated,The claims about lower iPhone sales and higher Mac sales are not supported by the provided reference.,True,True,,,53.902795500005595,1709.0,130.0,gemini-3.5-flash
+Q28,unanswerable,rag,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,10.893974100006744,2360.0,7.0,gemini-3.5-flash
+Q29,unanswerable,rag,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,12.941443599993363,1825.0,7.0,gemini-3.5-flash
+Q30,unanswerable,rag,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,,28.782616100041196,1645.0,7.0,gemini-3.5-flash
+Q01,fact_retrieval,rag_evidence,"Apple's total net sales for fiscal year 2025 was $416,161 million.",True,True,True,True,False,supported,The total net sales amount matches the reference.,,,,False,6.253156500053592,2299.0,131.0,gemini-3.5-flash
+Q02,fact_retrieval,rag_evidence,"Apple's net income for fiscal year 2025 was $112,010 million.",True,True,True,True,False,supported,The net income amount matches the reference.,,,,False,6.614004999981262,2548.0,113.0,gemini-3.5-flash
+Q03,fact_retrieval,rag_evidence,Apple's diluted earnings per share (EPS) for fiscal year 2025 was $7.46 (presented in the provided tables as $746 / $7A6 due to formatting).,True,True,True,True,True,hallucinated,The claim regarding how the number is presented in the tables ($746 / $7A6) goes beyond the reference.,,,,False,14.600766199990176,2524.0,223.0,gemini-3.5-flash
+Q04,fact_retrieval,rag_evidence,"Apple's research and development (R&D) expense for fiscal year 2025 was $34,550 million.",True,True,True,True,False,supported,The research and development expense matches the reference.,,,,False,7.105719099985436,2175.0,133.0,gemini-3.5-flash
+Q05,fact_retrieval,rag_evidence,"As of September 27, 2025, Apple had approximately 166,000 full-time equivalent employees.",True,True,True,True,False,supported,The employee count matches the reference.,,,,False,4.711804399965331,1836.0,131.0,gemini-3.5-flash
+Q06,fact_retrieval,rag_evidence,"As of September 27, 2025, Apple's cash and cash equivalents were $35,934 million.",True,True,True,True,False,supported,The cash and cash equivalents figure matches the reference.,,,,False,4.737636200035922,4181.0,120.0,gemini-3.5-flash
+Q07,fact_retrieval,rag_evidence,"As of September 27, 2025, Apple's total assets were $359,241 million.",True,True,True,True,False,supported,The stated total assets value matches the reference exactly.,,,,False,6.269651000038721,2264.0,128.0,gemini-3.5-flash
+Q08,fact_retrieval,rag_evidence,"In fiscal year 2025, Apple generated $111,482 million in cash from operating activities.",True,True,True,True,False,supported,The stated operating cash flow matches the reference exactly.,,,,False,19.309917900012806,3008.0,134.0,gemini-3.5-flash
+Q09,comparison,rag_evidence,"In fiscal year 2025, iPhone net sales were larger than Services net sales by $100,428 million ($209,586 million for iPhone vs. $109,158 million for Services).",True,True,True,True,False,supported,The comparison and numerical figures are fully supported by the reference.,,,,False,67.11292029998731,1699.0,484.0,gemini-3.5-flash
+Q10,comparison,rag_evidence,"In fiscal year 2025, Europe net sales was larger than Greater China net sales by $46,655 million.",False,False,False,True,False,supported,The comparison and difference match the reference.,,,,False,34.06454090005718,2682.0,289.0,gemini-3.5-flash
+Q11,comparison,rag_evidence,Insufficient information in the provided context.,False,False,False,True,False,supported,An abstention is not considered a hallucination under the provided rules.,,,,False,6.908187299966812,1520.0,29.0,gemini-3.5-flash
+Q12,comparison,rag_evidence,"In fiscal year 2025, the gross margin percentage for Products was 36.8%, compared to 75.4% for Services. Services had a higher gross margin percentage than Products by 38.6 percentage points.",True,True,True,True,False,supported,The values and calculated difference of percentage points are fully supported by the reference.,,,,False,9.71691160008777,2301.0,276.0,gemini-3.5-flash
+Q13,comparison,rag_evidence,"Apple's effective tax rate for fiscal year 2025 was 15.6%, which was lower compared to 24.1% in 2024. This decrease was primarily due to a $10.7 billion year-over-year decrease in the provision for income taxes related to the State Aid Decision and the impact of changes in unrecognized tax benefits, partially offset by a change in valuation allowance and a higher effective tax rate on foreign earnings.",True,True,True,True,True,hallucinated,The response makes detailed factual claims about the reasons for the tax rate change that go beyond the reference.,,,,False,11.467818800010718,1749.0,355.0,gemini-3.5-flash
+Q14,calculation,rag_evidence,Total net sales grew by approximately 6.43% in fiscal year 2025 compared with fiscal year 2024.,True,True,False,True,False,supported,The growth percentage matches the calculated ground truth in the reference.,True,,,False,14.362307199975476,1762.0,301.0,gemini-3.5-flash
+Q15,calculation,rag_evidence,"In fiscal year 2025, Apple's net profit margin was approximately 26.92% (or 0.26915).",True,True,True,True,False,supported,The net profit margin percentage matches the reference.,True,,,False,15.237588200019673,2521.0,318.0,gemini-3.5-flash
+Q16,calculation,rag_evidence,"In fiscal year 2025, Research and Development (R&D) expense was 8% of total net sales.",False,False,True,True,False,supported,The percentage stated is explicitly noted in the reference as reported in the 10-K.,False,,,False,5.457841800060123,1791.0,158.0,gemini-3.5-flash
+Q17,calculation,rag_evidence,"Apple's total gross margin percentage in fiscal year 2025 was approximately 46.91% (or 46.9% as reported in the consolidated statements), calculated by dividing total gross margin ($195,201 million) by total net sales ($416,161 million).",True,True,True,True,True,hallucinated,The claim that 46.9% was reported in the consolidated statements is not supported by the reference.,True,,,False,12.07946689997334,2204.0,479.0,gemini-3.5-flash
+Q18,calculation,rag_evidence,"In fiscal year 2025, Services accounted for approximately 26.23% of total net sales.",True,True,False,False,False,supported,The response accurately provides the calculated percentage supported by the reference.,True,,,False,7.7637542999582365,1734.0,286.0,gemini-3.5-flash
+Q19,calculation,rag_evidence,Insufficient information in the provided context.,False,False,False,False,False,supported,An abstention is not considered a hallucination under the evaluation rules.,False,,,False,13.76130050001666,1711.0,29.0,gemini-3.5-flash
+Q20,reasoning,rag_evidence,"Apple's effective tax rate for fiscal year 2025 was lower compared to 2024 primarily due to a $10.7 billion year-over-year decrease in the provision for income taxes related to the State Aid Decision and the impact of changes in unrecognized tax benefits, partially offset by a change in valuation allowance and a higher effective tax rate on foreign earnings.",True,,True,True,True,hallucinated,The claims regarding valuation allowance and tax rate on foreign earnings go beyond the reference.,True,,,False,6.3454753999831155,1751.0,262.0,gemini-3.5-flash
+Q21,reasoning,rag_evidence,"Greater China net sales decreased during fiscal year 2025 compared to 2024 primarily due to lower net sales of iPhone, which was partially offset by higher net sales of Mac.",True,,True,True,False,supported,The response accurately conveys the factors explaining the sales decrease as stated in the reference.,True,,,False,5.78170739999041,2588.0,148.0,gemini-3.5-flash
+Q22,reasoning,rag_evidence,"Products gross margin percentage decreased during 2025 compared to 2024 primarily due to a different mix of products and tariff costs, partially offset by other favorable costs.",True,,True,True,False,supported,The answer accurately reflects the causes of the gross margin decrease described in the reference.,True,,,False,7.477234499994665,1890.0,146.0,gemini-3.5-flash
+Q23,reasoning,rag_evidence,"In fiscal year 2025, the Services gross margin percentage increased primarily due to a different mix of services, partially offset by higher costs.",True,,True,True,False,supported,The response correctly states the reasons for the increase in gross margin percentage supported by the reference.,True,,,False,4.1608068000059575,1890.0,138.0,gemini-3.5-flash
+Q24,reasoning,rag_evidence,"Services net sales increased in fiscal year 2025 compared to 2024 primarily due to higher net sales from advertising, the App Store, and cloud services.",True,,True,True,False,supported,The answer correctly lists the drivers of the increase in Services net sales from the reference.,True,,,False,4.587484200019389,1822.0,141.0,gemini-3.5-flash
+Q25,trend,rag_evidence,"Services net sales experienced a continuous upward trend from fiscal years 2023 to 2025. Services net sales were $85,200 million in 2023, increased by 13% to $96,169 million in 2024, and further increased by 14% to $109,158 million in 2025.",True,True,True,True,False,supported,"The answer accurately details the trend, values, and percentage changes provided in the reference.",True,True,,False,9.429135099984705,1916.0,202.0,gemini-3.5-flash
+Q26,trend,rag_evidence,"No, net income did not increase steadily over fiscal years 2023 to 2025. Net income decreased from $96,995 million in 2023 to $93,736 million in 2024, before increasing to $112,010 million in 2025.",True,True,False,False,False,supported,The response correctly identifies the non-steady trend and figures supported by the reference.,True,True,,False,7.689902100013569,2676.0,183.0,gemini-3.5-flash
+Q27,trend,rag_evidence,"China (Greater China) net sales experienced a continuous downward trend over fiscal years 2023 to 2025, decreasing from $72,559 million in 2023 to $66,952 million in 2024, and declining further to $64,377 million in 2025. The decrease in 2025 compared to 2024 was primarily due to lower net sales of iPhone, partially offset by higher net sales of Mac.",True,True,True,True,True,hallucinated,The claim regarding the specific drivers of the 2025 decrease (iPhone and Mac sales) goes beyond what is supported by the reference.,True,True,,False,11.522646399913356,1890.0,297.0,gemini-3.5-flash
+Q28,unanswerable,rag_evidence,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,False,7.139403300010599,2541.0,21.0,gemini-3.5-flash
+Q29,unanswerable,rag_evidence,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,False,8.597324599977583,2006.0,29.0,gemini-3.5-flash
+Q30,unanswerable,rag_evidence,Insufficient information in the provided context.,True,,,,False,supported,Correct abstention on an unanswerable question.,,,True,False,3.680771699990146,1826.0,29.0,gemini-3.5-flash
